@@ -1,6 +1,6 @@
 from pathlib import Path
 from typing import Dict, List
-
+import re
 
 FIELDS = [
     "Question",
@@ -26,16 +26,27 @@ class MarkdownParser:
     def parse(self) -> List[Dict[str, str]]:
         text = self.markdown_file.read_text(encoding="utf-8")
 
-        sections = [s.strip() for s in text.split("# ") if s.strip()]
+        # Split only on level-1 headings
+        sections = re.split(r"^#\s+", text, flags=re.MULTILINE)
 
         cards = []
 
         for section in sections:
+
+            section = section.strip()
+
+            if not section:
+                continue
+
             lines = section.splitlines()
 
             title = lines[0].strip()
 
             body = "\n".join(lines[1:])
+
+            # Skip anything that isn't actually a card
+            if "Question" not in body or "Answer" not in body:
+                continue
 
             card = self._extract_fields(body)
 
@@ -89,7 +100,7 @@ def main():
 
     cards = parser.parse()
 
-    print(f"\nFound {len(cards)} cards\n")
+    print(f"\n✓ Parsed {len(cards)} cards successfully.")
 
     for i, card in enumerate(cards, start=1):
         print("=" * 80)
@@ -102,6 +113,10 @@ def main():
                 print("-" * len(key))
                 print(value)
 
+    print("\nCards found:")
+
+    for i, card in enumerate(cards, start=1):
+        print(f"{i:02}. {card['Title']}")
 
 if __name__ == "__main__":
     main()
