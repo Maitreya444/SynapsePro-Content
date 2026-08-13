@@ -10,14 +10,14 @@ MARKDOWN_FILE = (
     ROOT
     / "DGCA"
     / "Technical Specific"
-    / "01-General"
-    / "cards.md"
+    / "03- Procedures"
+    / "Section_3_Procedures.md"
 )
 
 OUTPUT_FILE = (
     ROOT
     / "output"
-    / "chapter01.csv"
+    / "chapter03.csv"
 )
 
 
