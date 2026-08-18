@@ -1,0 +1,342 @@
+# Kanji Reading List — N5-Level Study Table
+
+All example sentences use **only N5 grammar and vocabulary** (particles は/が/を/に/で/と/も/の/へ/や/から/まで/か; です/ます forms; て-form; たいです; てください; ています; てもいいです/てはいけません; い/な-adjectives; あります/います; より/ほど; ことができます; つもりです; でしょう; とき; から as "because"). Difficulty increases through **sentence length and clause-joining** (て-form, から, とき), never through harder grammar points.
+
+**Legend:** 🟢 Easy (single short clause) · 🟡 Medium (clause + time/place/adjective) · 🔴 Hard (two clauses joined, still N5 grammar)
+
+Items marked **[?]** had ambiguous handwriting in the original — please verify against your textbook.
+
+| # | Kanji / Word | Hiragana | English Meaning | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+|---|---|---|---|---|---|---|
+| 1 | 月 | つき | moon / month | 月です。(It's the moon.) | 月がきれいです。(The moon is pretty.) | 今夜は月がきれいですから、外を見ます。(Tonight the moon is pretty, so I'll look outside.) |
+| 2 | 月ようび | げつようび | Monday | 月曜日です。(It's Monday.) | 月曜日に学校へ行きます。(I go to school on Monday.) | 月曜日は忙しいですから、早く起きます。(Monday is busy, so I get up early.) |
+| 3 | 四月 | しがつ | April | 四月です。(It's April.) | 四月は春です。(April is spring.) | 四月になりますから、新しい学校が始まります。(April comes, so the new school starts.) |
+| 4 | 月を見る | つきをみる | to look at the moon | 月を見ます。(I look at the moon.) | 夜、月を見ます。(I look at the moon at night.) | 友達と一緒に、公園で月を見ます。(I look at the moon in the park together with a friend.) |
+| 5 | 火 | ひ | fire | 火です。(It's fire.) | 火は熱いです。(Fire is hot.) | 火は熱いですから、気をつけてください。(Fire is hot, so please be careful.) |
+| 6 | 火ようび | かようび | Tuesday | 火曜日です。(It's Tuesday.) | 火曜日にテストがあります。(There's a test on Tuesday.) | 火曜日はテストがありますから、今晩勉強します。(There's a test on Tuesday, so I'll study tonight.) |
+| 7 | 火山 | かざん | volcano | 火山です。(It's a volcano.) | 日本に火山があります。(There's a volcano in Japan.) | 日本には火山がたくさんありますが、危なくないです。(Japan has many volcanoes, but they aren't dangerous.) |
+| 8 | 火はあぶない | ひはあぶない | fire is dangerous | 火は危ないです。(Fire is dangerous.) | 火は子供に危ないです。(Fire is dangerous for children.) | 火は危ないですから、子供は使ってはいけません。(Fire is dangerous, so children must not use it.) |
+| 9 | 水 | みず | water | 水です。(It's water.) | 水を飲みます。(I drink water.) | のどが渇きましたから、水を飲みます。(I got thirsty, so I drink water.) |
+| 10 | 水ようび | すいようび | Wednesday | 水曜日です。(It's Wednesday.) | 水曜日は休みです。(Wednesday is a day off.) | 水曜日は休みですから、友達に会います。(Wednesday is a day off, so I'll meet my friend.) |
+| 11 | プールの水 | プールのみず | pool water | 水です。(It's water.) | プールの水は冷たいです。(The pool water is cold.) | プールの水は冷たいですが、気持ちいいです。(The pool water is cold, but it feels good.) |
+| 12 | 木 | き | tree | 木です。(It's a tree.) | 木が大きいです。(The tree is big.) | 公園に木がありますから、涼しいです。(There's a tree in the park, so it's cool.) |
+| 13 | 木ようび | もくようび | Thursday | 木曜日です。(It's Thursday.) | 木曜日に買い物します。(I go shopping on Thursday.) | 木曜日は暇ですから、買い物に行きます。(Thursday is free, so I'll go shopping.) |
+| 14 | 木刀 | ぼくとう | wooden sword | 木刀です。(It's a wooden sword.) | 木刀は木です。(A bokuto is made of wood.) | 剣道で木刀を使いますが、危なくないです。(We use a wooden sword in kendo, but it's not dangerous.) |
+| 15 | 木々 [?] | きぎ | trees (plural) | 木々です。(These are trees.) | 木々が多いです。(There are many trees.) | 秋ですから、木々の葉が赤いです。(It's autumn, so the trees' leaves are red.) |
+| 16 | 高木 | たかぎ | tall tree / surname "Takagi" | 高木さんです。(This is Mr. Takagi.) | 高木さんは先生です。(Mr. Takagi is a teacher.) | 高木さんは先生ですから、学校で会います。(Mr. Takagi is a teacher, so I see him at school.) |
+| 17 | 金 | きん / かね | gold / money | 金です。(It's gold.) | 金は高いです。(Gold is expensive.) | 金は高いですから、あまり買いません。(Gold is expensive, so I don't buy it much.) |
+| 18 | 金ようび | きんようび | Friday | 金曜日です。(It's Friday.) | 金曜日は楽しみです。(I look forward to Friday.) | 金曜日ですから、今晩友達と食事します。(It's Friday, so I'll eat with a friend tonight.) |
+| 19 | お金 | おかね | money | お金です。(It's money.) | お金がありません。(I have no money.) | お金がありませんから、買い物しません。(I have no money, so I won't go shopping.) |
+| 20 | 土 | つち | soil / earth | 土です。(It's soil.) | 土は茶色です。(Soil is brown.) | 花に土をあげますから、元気になります。(I give soil to the flower, so it becomes healthy.) |
+| 21 | 土ようび | どようび | Saturday | 土曜日です。(It's Saturday.) | 土曜日は休みです。(Saturday is a day off.) | 土曜日は休みですから、早く起きません。(Saturday is a day off, so I don't wake up early.) |
+| 22 | 週 | しゅう | week | 週です。(It's a week.) | 一週は七日です。(A week is seven days.) | 週の初めに、一週間の予定を立てます。(At the start of the week, I make plans for the week.) |
+| 23 | 今週 | こんしゅう | this week | 今週です。(It's this week.) | 今週は忙しいです。(This week is busy.) | 今週は忙しいですから、あまり寝ません。(This week is busy, so I don't sleep much.) |
+| 24 | 先週 | せんしゅう | last week | 先週です。(It was last week.) | 先週、雨でした。(It rained last week.) | 先週は雨でしたから、山へ行きませんでした。(It rained last week, so I didn't go to the mountain.) |
+| 25 | 来週 | らいしゅう | next week | 来週です。(It's next week.) | 来週、旅行します。(I'll travel next week.) | 来週は休みですから、旅行するつもりです。(Next week is a holiday, so I intend to travel.) |
+| 26 | 一週間 | いっしゅうかん | one week | 一週間です。(It's one week.) | 一週間、休みます。(I'll rest for one week.) | 一週間仕事をしましたから、少し休みます。(I worked for a week, so I'll rest a little.) |
+| 27 | 年 | とし / ねん | year | 年です。(It's a year.) | 今年は忙しいです。(This year is busy.) | 毎年、家族と旅行に行きます。(Every year, I go traveling with my family.) |
+| 28 | 今年 | ことし | this year | 今年です。(It's this year.) | 今年は暑いです。(This year is hot.) | 今年は暑いですから、プールへよく行きます。(This year is hot, so I often go to the pool.) |
+| 29 | 来年 | らいねん | next year | 来年です。(It's next year.) | 来年、日本へ行きます。(I'll go to Japan next year.) | 来年は日本へ行くつもりですから、お金を貯めます。(I intend to go to Japan next year, so I save money.) |
+| 30 | 毎 | まい | every | 毎朝です。(It's every morning.) | 毎朝、走ります。(I run every morning.) | 毎朝走りますから、体が丈夫です。(I run every morning, so my body is healthy.) |
+| 31 | 毎日 | まいにち | every day | 毎日です。(It's every day.) | 毎日、勉強します。(I study every day.) | 毎日勉強しますから、日本語が上手になりました。(I study every day, so I became good at Japanese.) |
+| 32 | 毎週 | まいしゅう | every week | 毎週です。(It's every week.) | 毎週、映画を見ます。(I watch a movie every week.) | 毎週土曜日に、映画を見に行きます。(Every Saturday, I go to watch a movie.) |
+| 33 | 一 | いち | one | 一です。(It's one.) | 一からやります。(I'll do it from one.) | 一からやりますから、時間がかかります。(I do it from one, so it takes time.) |
+| 34 | 一年 | いちねん | one year | 一年です。(It's one year.) | 一年、日本にいました。(I was in Japan for one year.) | 一年日本にいましたから、日本語が上手です。(I was in Japan for a year, so I'm good at Japanese.) |
+| 35 | 一か月 | いっかげつ | one month | 一か月です。(It's one month.) | 一か月、休みます。(I'll rest for one month.) | 一か月休みましたから、元気になりました。(I rested for a month, so I became healthy.) |
+| 36 | 一人 | ひとり | one person / alone | 一人です。(I'm alone.) | 一人で行きます。(I'll go alone.) | 一人で映画を見ますから、静かです。(I watch a movie alone, so it's quiet.) |
+| 37 | 一つ | ひとつ | one (thing) | 一つです。(It's one.) | りんごが一つあります。(There is one apple.) | 質問が一つありますから、聞いてもいいですか。(I have one question, so may I ask?) |
+| 38 | 二 | に | two | 二です。(It's two.) | 二つに分けます。(I'll divide it into two.) | 二人で分けますから、半分ずつです。(Two of us split it, so it's half each.) |
+| 39 | 三 | さん | three | 三です。(It's three.) | 三時に会います。(I'll meet at three.) | 三時に会いますから、今から準備します。(I'll meet at three, so I'll prepare now.) |
+| 40 | 二月 | にがつ | February | 二月です。(It's February.) | 二月は寒いです。(February is cold.) | 二月は寒いですから、コートを着ます。(February is cold, so I wear a coat.) |
+| 41 | 二つ | ふたつ | two (things) | 二つです。(It's two.) | りんごが二つあります。(There are two apples.) | りんごが二つありますから、一つあげます。(There are two apples, so I'll give you one.) |
+| 42 | 二人 | ふたり | two people | 二人です。(It's two people.) | 二人で行きます。(Two of us will go.) | 二人で行きますから、車を使います。(Two of us will go, so we'll use a car.) |
+| 43 | 三人 | さんにん | three people | 三人です。(It's three people.) | 三人で旅行します。(The three of us will travel.) | 三人で旅行しますから、部屋を三つ取ります。(The three of us will travel, so we'll take three rooms.) |
+| 44 | 三つ | みっつ | three (things) | 三つです。(It's three.) | 卵が三つあります。(There are three eggs.) | 卵が三つありますから、ケーキを作ります。(There are three eggs, so I'll make a cake.) |
+| 45 | 四月 | しがつ | April (dup. of #3) | 四月です。(It's April.) | 四月に入学します。(I'll enroll in April.) | 四月に入学しますから、今準備しています。(I'll enroll in April, so I'm preparing now.) |
+| 46 | 四 | し / よん | four | 四です。(It's four.) | 四時間、勉強しました。(I studied for four hours.) | 四時間勉強しましたから、疲れました。(I studied for four hours, so I got tired.) |
+| 47 | 四本 | よんほん | four (long objects) | 四本です。(It's four.) | えんぴつが四本あります。(There are four pencils.) | えんぴつが四本ありますから、二本貸します。(There are four pencils, so I'll lend you two.) |
+| 48 | 四人 | よにん | four people | 四人です。(It's four people.) | 四人家族です。(We're a family of four.) | 四人家族ですから、車が大きいです。(We're a family of four, so the car is big.) |
+| 49 | 五 | ご | five | 五です。(It's five.) | 五時に帰ります。(I'll go home at five.) | 五時に帰りますから、六時に晩ご飯を食べます。(I'll go home at five, so I'll eat dinner at six.) |
+| 50 | 五月五日 | ごがついつか | May 5th | 五月五日です。(It's May 5th.) | 五月五日はこどもの日です。(May 5th is Children's Day.) | 五月五日はこどもの日ですから、学校は休みです。(May 5th is Children's Day, so school is off.) |
+| 51 | 六 | ろく | six | 六です。(It's six.) | 六時に起きます。(I wake up at six.) | 六時に起きますから、五時半に目覚まし時計をかけます。(I wake up at six, so I set the alarm for 5:30.) |
+| 52 | 六年 | ろくねん | six years | 六年です。(It's six years.) | 六年、勉強しました。(I studied for six years.) | 六年勉強しましたから、日本語が上手です。(I studied for six years, so I'm good at Japanese.) |
+| 53 | 六つ | むっつ | six (things) | 六つです。(It's six.) | みかんが六つあります。(There are six mandarins.) | みかんが六つありますから、みんなに配ります。(There are six mandarins, so I'll hand them out to everyone.) |
+| 54 | 七月 | しちがつ | July | 七月です。(It's July.) | 七月は暑いです。(July is hot.) | 七月は暑いですから、プールへ行きます。(July is hot, so I go to the pool.) |
+| 55 | 七がつ | しちがつ | July (dup. of #54) | 七月です。(It's July.) | 七月に休みを取ります。(I'll take a vacation in July.) | 七月に休みを取りますから、旅行の計画を立てます。(I'll take a vacation in July, so I'll make a travel plan.) |
+| 56 | 八 | はち | eight | 八です。(It's eight.) | 八時に寝ます。(I go to sleep at eight.) | 八時に寝ますから、七時にお風呂に入ります。(I go to sleep at eight, so I take a bath at seven.) |
+| 57 | 八月 | はちがつ | August | 八月です。(It's August.) | 八月は夏休みです。(August is summer vacation.) | 八月は夏休みですから、学校がありません。(August is summer vacation, so there's no school.) |
+| 58 | 八週間 | はっしゅうかん | eight weeks | 八週間です。(It's eight weeks.) | 八週間、勉強します。(I'll study for eight weeks.) | 八週間勉強しますから、少しずつ上手になります。(I'll study for eight weeks, so I'll gradually get better.) |
+| 59 | 八日 | ようか | the 8th / eight days | 八日です。(It's the 8th.) | 八日間、旅行します。(I'll travel for eight days.) | 八日間旅行しますから、荷物が多いです。(I'll travel for eight days, so I have a lot of luggage.) |
+| 60 | 十一 | じゅういち | eleven | 十一です。(It's eleven.) | 十一時に会います。(I'll meet at eleven.) | 十一時に会いますから、十時に家を出ます。(I'll meet at eleven, so I'll leave home at ten.) |
+| 61 | 十月 | じゅうがつ | October | 十月です。(It's October.) | 十月は涼しいです。(October is cool.) | 十月は涼しいですから、外で散歩します。(October is cool, so I take a walk outside.) |
+| 62 | 十日 | とおか | the 10th / ten days | 十日です。(It's the 10th.) | 十日間、休みます。(I'll rest for ten days.) | 十日間休みますから、旅行するつもりです。(I'll rest for ten days, so I intend to travel.) |
+| 63 | 百 | ひゃく | hundred | 百です。(It's a hundred.) | 百まで数えます。(I'll count to a hundred.) | 百まで数えますから、少し時間がかかります。(I'll count to a hundred, so it takes a little time.) |
+| 64 | 百人 | ひゃくにん | a hundred people | 百人です。(It's a hundred people.) | 会場に百人います。(There are a hundred people at the venue.) | 会場に百人いますから、席が足りません。(There are a hundred people at the venue, so the seats aren't enough.) |
+| 65 | 百本 | ひゃっぽん | a hundred (long objects) | 百本です。(It's a hundred.) | 木が百本あります。(There are a hundred trees.) | 木が百本ありますから、公園は涼しいです。(There are a hundred trees, so the park is cool.) |
+| 66 | 三百円 | さんびゃくえん | 300 yen | 三百円です。(It's 300 yen.) | 三百円しかありません。(I only have 300 yen.) | 三百円しかありませんから、これは買えません。(I only have 300 yen, so I can't buy this.) |
+| 67 | 千 | せん | thousand | 千です。(It's a thousand.) | 千円札があります。(I have a thousand-yen bill.) | 千円札がありますから、両替してください。(I have a thousand-yen bill, so please exchange it.) |
+| 68 | 千人 | せんにん | a thousand people | 千人です。(It's a thousand people.) | 会場に千人います。(There are a thousand people at the venue.) | 会場に千人いますから、とても賑やかです。(There are a thousand people at the venue, so it's very lively.) |
+| 69 | 二千円 | にせんえん | 2000 yen | 二千円です。(It's 2000 yen.) | 二千円貸してください。(Please lend me 2000 yen.) | 二千円貸してくださいますか、明日返します。(Could you lend me 2000 yen? I'll return it tomorrow.) |
+| 70 | 万 | まん | ten thousand | 万です。(It's ten thousand.) | 一万は大きい数字です。(Ten thousand is a big number.) | 一万は大きい数字ですから、覚えにくいです。(Ten thousand is a big number, so it's hard to remember.) |
+| 71 | 一万円 | いちまんえん | 10,000 yen | 一万円です。(It's 10,000 yen.) | 一万円落としました。(I dropped 10,000 yen.) | 一万円落としましたから、交番へ行きます。(I dropped 10,000 yen, so I'll go to the police box.) |
+| 72 | 円 | えん | yen / circle | 百円です。(It's 100 yen.) | 円をかきます。(I'll draw a circle.) | 紙に円をかきますから、鉛筆をください。(I'll draw a circle on the paper, so please give me a pencil.) |
+| 73 | 口 | くち | mouth | 口です。(It's a mouth.) | 口を開けます。(I open my mouth.) | 口を開けますから、見てください。(I'll open my mouth, so please look.) |
+| 74 | 入口 | いりぐち | entrance | 入口です。(It's the entrance.) | 入口はここです。(The entrance is here.) | 入口はここですから、ここで待ちましょう。(The entrance is here, so let's wait here.) |
+| 75 | 出口 | でぐち | exit | 出口です。(It's the exit.) | 出口はあちらです。(The exit is over there.) | 出口はあちらですから、あちらへ行ってください。(The exit is over there, so please go that way.) |
+| 76 | 入口 | いりぐち | entrance (dup. of #74) | 入口です。(It's the entrance.) | 東の入口を使います。(I'll use the east entrance.) | 東の入口を使いますから、東口で会いましょう。(I'll use the east entrance, so let's meet at the east exit.) |
+| 77 | 口をとじます | くちをとじます | to close one's mouth | 口をとじます。(I close my mouth.) | 静かに口をとじます。(I quietly close my mouth.) | 口をとじてください、写真を撮ります。(Please close your mouth; I'll take a photo.) |
+| 78 | 口をあけます | くちをあけます | to open one's mouth | 口をあけます。(I open my mouth.) | 大きく口をあけます。(I open my mouth wide.) | 口を大きくあけてください、見てみます。(Please open your mouth wide; I'll take a look.) |
+| 79 | 大きい口 | おおきいくち | big mouth | 大きい口です。(It's a big mouth.) | あの魚は大きい口です。(That fish has a big mouth.) | あの魚は大きい口ですから、小さい魚を食べます。(That fish has a big mouth, so it eats small fish.) |
+| 80 | 駅のかいさつ口 [?] | えきのかいさつぐち | station ticket gate | かいさつ口です。(It's the ticket gate.) | かいさつ口で待ちます。(I'll wait at the ticket gate.) | 駅のかいさつ口で待ちますから、そこへ来てください。(I'll wait at the station ticket gate, so please come there.) |
+| 81 | 目 | め | eye | 目です。(It's an eye.) | 目が痛いです。(My eye hurts.) | 目が痛いですから、病院へ行きます。(My eye hurts, so I'll go to the hospital.) |
+| 82 | 目をあけます | めをあけます | to open one's eyes | 目をあけます。(I open my eyes.) | ゆっくり目をあけます。(I slowly open my eyes.) | 目をあけてください、朝ですよ。(Please open your eyes; it's morning.) |
+| 83 | 一日目 | いちにちめ | the first day | 一日目です。(It's the first day.) | 一日目は緊張しました。(I was nervous on the first day.) | 一日目は緊張しましたが、二日目は大丈夫でした。(I was nervous on the first day, but the second day was fine.) |
+| 84 | 二日目 | ふつかめ | the second day | 二日目です。(It's the second day.) | 二日目から慣れました。(I got used to it from the second day.) | 二日目から慣れましたから、楽しくなりました。(I got used to it from the second day, so it became fun.) |
+| 85 | 目をとじます | めをとじます | to close one's eyes | 目をとじます。(I close my eyes.) | 静かに目をとじます。(I quietly close my eyes.) | 音楽を聞くとき、目をとじます。(When I listen to music, I close my eyes.) |
+| 86 | 耳 | みみ | ear | 耳です。(It's an ear.) | 耳が痛いです。(My ear hurts.) | 耳が痛いですから、プールに入りません。(My ear hurts, so I won't go into the pool.) |
+| 87 | 耳がいたいです | みみがいたいです | my ear hurts | 耳が痛いです。(My ear hurts.) | 昨日から耳が痛いです。(My ear has hurt since yesterday.) | 昨日から耳が痛いですから、病院へ行くつもりです。(My ear has hurt since yesterday, so I intend to go to the hospital.) |
+| 88 | 耳をすませます | みみをすませます | to listen carefully | 耳をすませます。(I listen carefully.) | 静かに耳をすませます。(I quietly listen carefully.) | 森の中で、耳をすませて鳥の声を聞きます。(In the forest, I listen carefully and hear bird calls.) |
+| 89 | 手 | て | hand | 手です。(It's a hand.) | 手が冷たいです。(My hand is cold.) | 手が冷たいですから、手袋をします。(My hand is cold, so I wear gloves.) |
+| 90 | 右手 | みぎて | right hand | 右手です。(It's the right hand.) | 右手でペンを持ちます。(I hold the pen with my right hand.) | 右手でペンを持ちますから、左手はノートを押さえます。(I hold the pen with my right hand, so my left hand holds the notebook down.) |
+| 91 | 手がみ | てがみ | letter (手紙) | 手紙です。(It's a letter.) | 手紙を書きます。(I write a letter.) | 友達に手紙を書きますから、切手を買います。(I'll write a letter to my friend, so I'll buy a stamp.) |
+| 92 | 手をあらいます | てをあらいます | to wash one's hands | 手を洗います。(I wash my hands.) | 食事の前に手を洗います。(I wash my hands before eating.) | 食事の前に手を洗いますから、石けんを使ってください。(I wash my hands before eating, so please use soap.) |
+| 93 | 手をあけます | てをあけます | to free up one's hands | 手をあけます。(I free up my hands.) | 少し手をあけます。(I'll free up my hands a bit.) | 手をあけますから、手伝ってください。(I'll free up my hands, so please help me.) |
+| 94 | 足 | あし | foot / leg | 足です。(It's a foot.) | 足が痛いです。(My foot hurts.) | 足が痛いですから、少し休みます。(My foot hurts, so I'll rest a little.) |
+| 95 | 足が長いです | あしがながいです | the legs are long | 足が長いです。(The legs are long.) | あの人は足が長いです。(That person has long legs.) | あの人は足が長いですから、モデルになりました。(That person has long legs, so they became a model.) |
+| 96 | 左足 | ひだりあし | left foot/leg | 左足です。(It's the left foot.) | 左足が痛いです。(My left foot hurts.) | 左足が痛いですから、病院へ行きます。(My left foot hurts, so I'll go to the hospital.) |
+| 97 | 足ります | たります | to be enough (足りる) | 足ります。(It's enough.) | お金が足ります。(The money is enough.) | お金が足りませんから、買い物をしません。(There isn't enough money, so I won't shop.) |
+| 98 | みじかい足 | みじかいあし | short legs | みじかい足です。(It has short legs.) | あの犬はみじかい足です。(That dog has short legs.) | あの犬はみじかい足ですが、速く走ります。(That dog has short legs, but it runs fast.) |
+| 99 | 体 | からだ | body | 体です。(It's the body.) | 体が大きいです。(The body is big.) | 体が大きいですから、服が高いです。(The body is big, so the clothes are expensive.) |
+| 100 | 体がいたいです | からだがいたいです | my body hurts | 体が痛いです。(My body hurts.) | 昨日から体が痛いです。(My body has hurt since yesterday.) | 運動会をしましたから、体が痛いです。(I did the sports day, so my body hurts.) |
+| 101 | 体力 | たいりょく | physical strength | 体力です。(It's stamina.) | 体力があります。(I have stamina.) | 毎日運動しますから、体力があります。(I exercise every day, so I have stamina.) |
+| 102 | 体が大きいです | からだがおおきいです | the body is big | 体が大きいです。(The body is big.) | 兄は体が大きいです。(My older brother has a big build.) | 兄は体が大きいですから、服が大きいです。(My older brother has a big build, so his clothes are big.) |
+| 103 | 小さい体 | ちいさいからだ | small body | 小さい体です。(It's a small body.) | あの子は小さい体です。(That child has a small build.) | あの子は小さい体ですが、力が強いです。(That child has a small build, but is strong.) |
+| 104 | 人 | ひと | person | 人です。(It's a person.) | 人がいます。(There is a person.) | 駅に人がいますから、少し混んでいます。(There are people at the station, so it's a bit crowded.) |
+| 105 | 日本人 | にほんじん | Japanese person | 日本人です。(I'm Japanese.) | 日本人の友達がいます。(I have a Japanese friend.) | 日本人の友達がいますから、日本語を練習します。(I have a Japanese friend, so I practice Japanese.) |
+| 106 | 五人 | ごにん | five people | 五人です。(It's five people.) | 五人で旅行します。(The five of us will travel.) | 五人で旅行しますから、車を二台使います。(The five of us will travel, so we'll use two cars.) |
+| 107 | 人がおおい | ひとがおおい | many people | 人が多いです。(There are many people.) | 週末は人が多いです。(There are many people on weekends.) | 週末は人が多いですから、早く行きましょう。(There are many people on weekends, so let's go early.) |
+| 108 | 大人 | おとな | adult | 大人です。(I'm an adult.) | 大人になりました。(I became an adult.) | 大人になりましたから、一人で旅行します。(I became an adult, so I'll travel alone.) |
+| 109 | 父 | ちち | father (own) | 父です。(This is my father.) | 父は先生です。(My father is a teacher.) | 父は先生ですから、いつも忙しいです。(My father is a teacher, so he's always busy.) |
+| 110 | お父さん | おとうさん | father (polite) | お父さんです。(This is your father.) | お父さんは優しいです。(Your father is kind.) | お父さんは優しいですから、みんな好きです。(Your father is kind, so everyone likes him.) |
+| 111 | 父子 | ふし | father and child | 父子です。(It's a father and child.) | 父子で来ました。(A father and child came.) | 父子で来ましたから、二人分の切符を買います。(A father and child came, so I'll buy two tickets.) |
+| 112 | 母 | はは | mother (own) | 母です。(This is my mother.) | 母は優しいです。(My mother is kind.) | 母は優しいですから、みんな好きです。(My mother is kind, so everyone likes her.) |
+| 113 | 母の日 | ははのひ | Mother's Day | 母の日です。(It's Mother's Day.) | 母の日に花をあげます。(I'll give flowers on Mother's Day.) | 母の日に花をあげますから、今花屋へ行きます。(I'll give flowers on Mother's Day, so I'll go to the flower shop now.) |
+| 114 | お母さん | おかあさん | mother (polite) | お母さんです。(This is your mother.) | お母さんに会いました。(I met your mother.) | 昨日お母さんに会いましたから、少し話しました。(I met your mother yesterday, so we talked a little.) |
+| 115 | 子 | こ | child | 子です。(It's a child.) | あの子は元気です。(That child is energetic.) | あの子は元気ですから、公園でよく遊びます。(That child is energetic, so they often play in the park.) |
+| 116 | 子ども | こども | child(ren) | 子どもです。(It's a child.) | 子どもと遊びます。(I play with the children.) | 週末、子どもと公園で遊びます。(On weekends, I play with the children in the park.) |
+| 117 | 山下さんの子 | やましたさんのこ | Mr./Ms. Yamashita's child | 山下さんの子です。(This is Mr. Yamashita's child.) | 山下さんの子と話しました。(I talked with Mr. Yamashita's child.) | 山下さんの子と話しましたが、まだ小さいです。(I talked with Mr. Yamashita's child, but they're still young.) |
+| 118 | 男 | おとこ | man / male | 男です。(He's a man.) | 男の人です。(It's a man.) | 男の人が二人来ましたから、部屋に入れました。(Two men came, so I let them into the room.) |
+| 119 | 男子学生 | だんしがくせい | male student | 男子学生です。(He's a male student.) | 男子学生が多いです。(There are many male students.) | このクラスは男子学生が多いですから、賑やかです。(This class has many male students, so it's lively.) |
+| 120 | 男の人 | おとこのひと | man | 男の人です。(It's a man.) | 男の人が立っています。(A man is standing.) | 男の人が立っていますから、席をあげます。(A man is standing, so I'll give up my seat.) |
+| 121 | 女 | おんな | woman / female | 女です。(She's a woman.) | 女の人です。(It's a woman.) | 女の人が二人来ましたから、椅子を並べました。(Two women came, so I lined up chairs.) |
+| 122 | 女子 | じょし | girl / female | 女子です。(She's a girl.) | 女子学生です。(She's a female student.) | 女子学生が多いですから、教室が賑やかです。(There are many female students, so the classroom is lively.) |
+| 123 | 女の子 | おんなのこ | girl | 女の子です。(It's a girl.) | 女の子が遊んでいます。(A girl is playing.) | 公園で女の子が遊んでいますから、見に行きます。(A girl is playing in the park, so I'll go watch.) |
+| 124 | 王女 [?] | おうじょ | princess | 王女です。(She's a princess.) | 王女は美しいです。(The princess is beautiful.) | その話には、勇気がある王女が出てきます。(A brave princess appears in that story.) |
+| 125 | 学 | がく | study / learning | 学です。(It's learning.) | 学があります。(He has learning.) | 若いとき、学がありましたから、いい仕事があります。(He had learning when young, so he has a good job.) |
+| 126 | 学校 | がっこう | school | 学校です。(It's a school.) | 学校へ行きます。(I go to school.) | 学校へ行きますから、朝早く起きます。(I go to school, so I wake up early in the morning.) |
+| 127 | 大学 | だいがく | university | 大学です。(It's a university.) | 大学に入ります。(I'll enter university.) | 大学に入りますから、東京へ引っ越します。(I'll enter university, so I'll move to Tokyo.) |
+| 128 | 生 | せい | life / birth / student | 学生です。(It's a student.) | 一生忘れません。(I won't forget it my whole life.) | 一生忘れませんから、写真を撮ります。(I won't forget my whole life, so I'll take a photo.) |
+| 129 | 学生 | がくせい | student | 学生です。(I am a student.) | 学生が多いです。(There are many students.) | このクラスは学生が多いですから、教室が狭いです。(This class has many students, so the classroom is small.) |
+| 130 | 日本で生まれました | にほんでうまれました | I was born in Japan | 日本で生まれました。(I was born in Japan.) | 東京で生まれました。(I was born in Tokyo.) | 東京で生まれましたが、大阪で育ちました。(I was born in Tokyo, but I grew up in Osaka.) |
+| 131 | 先 | さき | ahead / previous | 先です。(It's ahead.) | 先に行きます。(I'll go ahead.) | 先に行きますから、後で来てください。(I'll go ahead, so please come later.) |
+| 132 | 先生 | せんせい | teacher | 先生です。(He's a teacher.) | 先生に質問します。(I'll ask the teacher a question.) | 先生に質問しますから、手をあげます。(I'll ask the teacher a question, so I raise my hand.) |
+| 133 | 先に行きます | さきにいきます | I'll go ahead | 先に行きます。(I'll go ahead.) | 私が先に行きます。(I'll go first.) | 私が先に行きますから、あとで会いましょう。(I'll go ahead first, so let's meet later.) |
+| 134 | 友 | とも | friend | 友です。(It's a friend.) | 友と話します。(I talk with my friend.) | 友と話しますから、電話をかけます。(I'll talk with my friend, so I'll make a call.) |
+| 135 | 上 | うえ | top / above | 上です。(It's on top.) | 机の上にあります。(It's on top of the desk.) | 机の上にありますから、そこを見てください。(It's on the desk, so please look there.) |
+| 136 | つくえの上 | つくえのうえ | on the desk | つくえの上です。(It's on the desk.) | つくえの上にあります。(It's on the desk.) | 本がつくえの上にありますから、取ってください。(The book is on the desk, so please take it.) |
+| 137 | 上がる | あがる | to rise / go up | 上がります。(It rises.) | 値段が上がります。(The price will rise.) | 値段が上がりましたから、あまり買いません。(The price rose, so I don't buy much.) |
+| 138 | 上げる | あげる | to raise / give | 上げます。(I raise it.) | 手を上げます。(I raise my hand.) | 質問がありますから、手を上げます。(I have a question, so I raise my hand.) |
+| 139 | 上手 | じょうず | skillful | 上手です。(I'm good at it.) | 料理が上手です。(I'm good at cooking.) | 彼は日本語が上手ですから、先生になりました。(He's good at Japanese, so he became a teacher.) |
+| 140 | 上る | のぼる | to climb / ascend | 上ります。(I climb.) | 山に上ります。(I climb the mountain.) | 山に上りますから、朝早く出発します。(I'll climb the mountain, so I'll leave early in the morning.) |
+| 141 | 屋上 [?] | おくじょう | rooftop | 屋上です。(It's the rooftop.) | 屋上に行きます。(I'll go to the rooftop.) | 屋上に行きますから、階段を使います。(I'll go to the rooftop, so I'll use the stairs.) |
+| 142 | 中 | なか | inside / middle | 中です。(It's inside.) | 中に入ります。(I go inside.) | 雨が降りましたから、中に入ります。(It rained, so I'll go inside.) |
+| 143 | この中 | このなか | among these | この中です。(It's among these.) | この中にあります。(It's in here.) | 鍵はこの中にありますから、探してください。(The key is in here, so please search.) |
+| 144 | 中学生 | ちゅうがくせい | junior high student | 中学生です。(I'm a junior high student.) | 中学生になりました。(I became a junior high student.) | 中学生になりましたから、電車で学校へ行きます。(I became a junior high student, so I go to school by train.) |
+| 145 | 一日中 | いちにちじゅう | all day long | 一日中です。(It's all day.) | 一日中忙しいです。(I'm busy all day.) | 一日中忙しかったですから、疲れました。(I was busy all day, so I got tired.) |
+| 146 | 車の中 | くるまのなか | inside the car | 車の中です。(It's inside the car.) | 車の中にいます。(I'm inside the car.) | 車の中は暑いですから、窓をあけます。(It's hot inside the car, so I'll open the window.) |
+| 147 | 下 | した | below / under | 下です。(It's below.) | 机の下にあります。(It's under the desk.) | 猫が机の下にいますから、静かにします。(The cat is under the desk, so I'll be quiet.) |
+| 148 | テーブルの下 | テーブルのした | under the table | テーブルの下です。(It's under the table.) | テーブルの下にあります。(It's under the table.) | 鍵がテーブルの下にありますから、取ってください。(The key is under the table, so please pick it up.) |
+| 149 | 下より [?] | したより | from below | 下よりです。(It's from below.) | 下より上を見ます。(I look up rather than down.) | 下より上のほうが景色がいいですから、上に座ります。(The view is better up than down, so I'll sit up top.) |
+| 150 | 下手 | へた | unskillful | 下手です。(I'm bad at it.) | 歌が下手です。(I'm bad at singing.) | 歌が下手ですから、あまり歌いません。(I'm bad at singing, so I don't sing much.) |
+| 151 | 下がる | さがる | to go down / decrease | 下がります。(It goes down.) | 温度が下がります。(The temperature drops.) | 夜になりますから、温度が下がります。(Night comes, so the temperature drops.) |
+| 152 | 右 | みぎ | right | 右です。(It's the right.) | 右を見ます。(I look right.) | 右に曲がりますから、そこで待ってください。(I'll turn right, so please wait there.) |
+| 153 | 右足 | みぎあし | right foot/leg | 右足です。(It's the right foot.) | 右足が痛いです。(My right foot hurts.) | 右足が痛いですから、あまり歩きません。(My right foot hurts, so I don't walk much.) |
+| 154 | 左 | ひだり | left | 左です。(It's the left.) | 左を見ます。(I look left.) | 左に銀行がありますから、そこで曲がってください。(There's a bank on the left, so please turn there.) |
+| 155 | 左にまがります | ひだりにまがります | to turn left | 左にまがります。(I turn left.) | 次の角を左にまがります。(I turn left at the next corner.) | 次の角を左にまがりますから、ついてきてください。(I'll turn left at the next corner, so please follow me.) |
+| 156 | 外 | そと | outside | 外です。(It's outside.) | 外は寒いです。(It's cold outside.) | 外は寒いですから、コートを着ます。(It's cold outside, so I wear a coat.) |
+| 157 | 外国 | がいこく | foreign country | 外国です。(It's a foreign country.) | 外国へ行きます。(I'll go abroad.) | 外国へ行きますから、パスポートを作ります。(I'll go abroad, so I'll make a passport.) |
+| 158 | へやの外へ出ます | へやのそとへでます | to go outside the room | 外へ出ます。(I go outside.) | 部屋の外へ出ます。(I go outside the room.) | 電話がかかりましたから、部屋の外へ出ます。(A call came, so I'll go outside the room.) |
+| 159 | 東 | ひがし | east | 東です。(It's the east.) | 東に進みます。(I proceed east.) | 東に進みますから、地図を見てください。(I'll proceed east, so please look at the map.) |
+| 160 | 東京 | とうきょう | Tokyo | 東京です。(It's Tokyo.) | 東京に住んでいます。(I live in Tokyo.) | 東京に住んでいますから、電車をよく使います。(I live in Tokyo, so I use trains a lot.) |
+| 161 | 東口 | ひがしぐち | east exit/entrance | 東口です。(It's the east exit.) | 東口で待ちます。(I'll wait at the east exit.) | 東口で待ちますから、そこへ来てください。(I'll wait at the east exit, so please come there.) |
+| 162 | 東日本 | ひがしにほん | Eastern Japan | 東日本です。(It's Eastern Japan.) | 東日本は寒いです。(Eastern Japan is cold.) | 東日本は寒いですから、厚い服を持っていきます。(Eastern Japan is cold, so I'll bring thick clothes.) |
+| 163 | 西 | にし | west | 西です。(It's the west.) | 西に進みます。(I proceed west.) | 西に進みますから、地図を見せてください。(I'll proceed west, so please show me the map.) |
+| 164 | 西口 | にしぐち | west exit/entrance | 西口です。(It's the west exit.) | 西口で待ちます。(I'll wait at the west exit.) | 西口で待ちますから、東口へ行かないでください。(I'll wait at the west exit, so please don't go to the east exit.) |
+| 165 | 南 | みなみ | south | 南です。(It's the south.) | 南に進みます。(I proceed south.) | 南に進みますから、暖かくなります。(I'll proceed south, so it will get warmer.) |
+| 166 | 南アメリカ | みなみアメリカ | South America | 南アメリカです。(It's South America.) | 南アメリカへ行きます。(I'll go to South America.) | 南アメリカへ行きますから、スペイン語を勉強します。(I'll go to South America, so I'll study Spanish.) |
+| 167 | 南口 | みなみぐち | south exit/entrance | 南口です。(It's the south exit.) | 南口で待ちます。(I'll wait at the south exit.) | 南口で待ちますから、南口の前に来てください。(I'll wait at the south exit, so please come in front of the south exit.) |
+| 168 | 北 | きた | north | 北です。(It's the north.) | 北に進みます。(I proceed north.) | 北に進みますから、寒くなります。(I'll proceed north, so it will get cold.) |
+| 169 | 北ヨーロッパ | きたヨーロッパ | Northern Europe | 北ヨーロッパです。(It's Northern Europe.) | 北ヨーロッパは寒いです。(Northern Europe is cold.) | 北ヨーロッパは寒いですから、冬に行きません。(Northern Europe is cold, so I won't go in winter.) |
+| 170 | 時 | とき | time / when | 時です。(It's time.) | 子供の時、よく遊びました。(When I was a child, I played a lot.) | 子供の時、よく遊びましたから、いい思い出です。(When I was a child, I played a lot, so it's a good memory.) |
+| 171 | 七時 [?] | しちじ | seven o'clock | 七時です。(It's seven o'clock.) | 七時に起きます。(I wake up at seven.) | 七時に起きますから、六時半に目覚めます。(I wake up at seven, so I stir around 6:30.) |
+| 172 | 時間 | じかん | time / hour | 時間です。(It's time.) | 時間がありません。(I don't have time.) | 時間がありませんから、急いでください。(I don't have time, so please hurry.) |
+| 173 | 子どもの時 | こどものとき | when I was a child | 子どもの時です。(It's when I was a child.) | 子どもの時、楽しかったです。(It was fun when I was a child.) | 子どもの時、楽しかったですから、今も覚えています。(It was fun when I was a child, so I still remember it now.) |
+| 174 | 何時 | なんじ | what time | 何時ですか。(What time is it?) | 何時に来ますか。(What time will you come?) | 何時に来ますか、教えてください。(What time will you come? Please tell me.) |
+| 175 | 間 | あいだ | between / interval | 間です。(There's an interval.) | 二つの間にあります。(It's between the two.) | 二つの間にありますから、見つけやすいです。(It's between the two, so it's easy to find.) |
+| 176 | 時間 | じかん | time (dup. of #172) | 時間です。(It's time.) | 勉強する時間が必要です。(I need time to study.) | 勉強する時間が必要ですから、テレビを見ません。(I need time to study, so I won't watch TV.) |
+| 177 | 一週間 | いっしゅうかん | one week (dup. of #26) | 一週間です。(It's one week.) | 一週間、日本にいます。(I'll be in Japan for one week.) | 一週間日本にいますから、たくさん写真を撮ります。(I'll be in Japan for one week, so I'll take many photos.) |
+| 178 | 休みの間 | やすみのあいだ | during the break | 休みの間です。(It's during the break.) | 休みの間に旅行しました。(I traveled during the break.) | 休みの間に旅行しましたから、写真がたくさんあります。(I traveled during the break, so I have many photos.) |
+| 179 | 分 | ふん / ぶん | minute / part | 分です。(It's a minute.) | 五分待ちます。(I'll wait five minutes.) | 五分待ちますから、急がなくてもいいです。(I'll wait five minutes, so you don't need to hurry.) |
+| 180 | 二分 | にふん | two minutes | 二分です。(It's two minutes.) | 二分待ちます。(I'll wait two minutes.) | 二分待ちますから、すぐ戻ってきてください。(I'll wait two minutes, so please come back soon.) |
+| 181 | 一時二分 | いちじにふん | 1:02 | 一時二分です。(It's 1:02.) | 一時二分に着きました。(I arrived at 1:02.) | 一時二分に着きましたから、少し早かったです。(I arrived at 1:02, so it was a little early.) |
+| 182 | 半 | はん | half | 半分です。(It's half.) | 三時半に会います。(I'll meet at 3:30.) | 三時半に会いますから、三時に家を出ます。(I'll meet at 3:30, so I'll leave home at three.) |
+| 183 | 八時半 | はちじはん | 8:30 | 八時半です。(It's 8:30.) | 八時半に起きます。(I wake up at 8:30.) | 八時半に起きますから、九時に朝ご飯を食べます。(I wake up at 8:30, so I eat breakfast at nine.) |
+| 184 | 半年 | はんとし | half a year | 半年です。(It's half a year.) | 半年、勉強しました。(I studied for half a year.) | 半年勉強しましたから、少し上手になりました。(I studied for half a year, so I got a bit better.) |
+| 185 | 半日 | はんにち | half a day | 半日です。(It's half a day.) | 半日休みます。(I'll take half a day off.) | 半日休みますから、午後は家にいます。(I'll take half a day off, so I'll be home in the afternoon.) |
+| 186 | 半分 | はんぶん | half | 半分です。(It's half.) | 半分食べます。(I eat half.) | ケーキを半分食べますから、半分は明日食べます。(I'll eat half the cake, so I'll eat the other half tomorrow.) |
+| 187 | 今 | いま | now | 今です。(It's now.) | 今、忙しいです。(I'm busy right now.) | 今忙しいですから、後で電話します。(I'm busy right now, so I'll call later.) |
+| 188 | 今週 | こんしゅう | this week (dup. of #23) | 今週です。(It's this week.) | 今週、休みます。(I'll rest this week.) | 今週は雨が多いですから、家にいます。(This week has a lot of rain, so I'll stay home.) |
+| 189 | 今日 | きょう | today | 今日です。(It's today.) | 今日は晴れです。(Today is sunny.) | 今日は晴れですから、公園へ行きましょう。(Today is sunny, so let's go to the park.) |
+| 190 | 今六時です | いまろくじです | it's six o'clock now | 今六時です。(It's six now.) | 今六時ですから、急ぎます。(It's six now, so I'll hurry.) | 今六時ですから、そろそろ帰りましょう。(It's six now, so let's head home soon.) |
+| 191 | 何 | なに / なん | what | 何ですか。(What is it?) | 何を食べますか。(What will you eat?) | 何を食べますか、決めてください。(What will you eat? Please decide.) |
+| 192 | 何をのみますか | なにをのみますか | What will you drink? | 何をのみますか。(What will you drink?) | 会議の後、何をのみますか。(What will you drink after the meeting?) | 会議の後、何をのみますか、店を探しましょう。(What will you drink after the meeting? Let's find a shop.) |
+| 193 | 何時ですか | なんじですか | What time is it? | 今、何時ですか。(What time is it now?) | 会議は何時ですか。(What time is the meeting?) | 会議は何時ですか、確認してください。(What time is the meeting? Please check.) |
+| 194 | 午 | ご | noon / horse (zodiac) | 午です。(It's noon / horse.) | 正午に会います。(I'll meet at noon.) | 正午に会いますから、レストランを予約します。(I'll meet at noon, so I'll reserve a restaurant.) |
+| 195 | 午前四時 | ごぜんよじ | 4 AM | 午前四時です。(It's 4 AM.) | 午前四時に起きます。(I wake up at 4 AM.) | 午前四時に起きますから、夜早く寝ます。(I wake up at 4 AM, so I go to bed early at night.) |
+| 196 | 午年 | うまどし | Year of the Horse | 午年です。(It's the Year of the Horse.) | 私は午年です。(I was born in the Year of the Horse.) | 私は午年ですから、馬が好きです。(I was born in the Year of the Horse, so I like horses.) |
+| 197 | 前 | まえ | before / in front | 前です。(It's before.) | 駅の前にいます。(I'm in front of the station.) | 駅の前にいますから、そこで会いましょう。(I'm in front of the station, so let's meet there.) |
+| 198 | *(no entry)* | — | — | — | — | — |
+| 199 | 山 | やま | mountain | 山です。(It's a mountain.) | 山が高いです。(The mountain is tall.) | 山が高いですから、上るのに時間がかかります。(The mountain is tall, so it takes time to climb.) |
+| 200 | 富士山 [?] | ふじさん | Mt. Fuji | 富士山です。(It's Mt. Fuji.) | 富士山は高いです。(Mt. Fuji is tall.) | 富士山は高いですから、上るのが大変です。(Mt. Fuji is tall, so it's hard to climb.) |
+| 201 | 高い山 | たかいやま | tall mountain | 高い山です。(It's a tall mountain.) | あれは高い山です。(That is a tall mountain.) | あれは高い山ですから、上りません。(That is a tall mountain, so I won't climb it.) |
+| 202 | 雨 | あめ | rain | 雨です。(It's rain.) | 雨が降ります。(It rains.) | 雨が降りますから、傘を持っていきます。(It rains, so I'll bring an umbrella.) |
+| 203 | 雨がふります | あめがふります | it rains | 雨がふります。(It rains.) | 明日、雨がふります。(It will rain tomorrow.) | 明日雨がふりますから、傘を用意してください。(It will rain tomorrow, so please prepare an umbrella.) |
+| 204 | 大雨 | おおあめ | heavy rain | 大雨です。(It's heavy rain.) | 大雨が降ります。(Heavy rain falls.) | 大雨が降りますから、外に出ないでください。(Heavy rain will fall, so please don't go outside.) |
+| 205 | 空 | そら | sky | 空です。(It's the sky.) | 空が青いです。(The sky is blue.) | 空が青いですから、公園へ行きましょう。(The sky is blue, so let's go to the park.) |
+| 206 | 空気 | くうき | air | 空気です。(It's air.) | 空気がきれいです。(The air is clean.) | 山の空気がきれいですから、深呼吸します。(The mountain air is clean, so I take a deep breath.) |
+| 207 | 大きい空 [?] | おおきいそら | big/vast sky | 大きい空です。(It's a big sky.) | 大きい空が見えます。(I can see a vast sky.) | 田舎では大きい空が見えますから、気持ちいいです。(In the countryside, you can see a vast sky, so it feels good.) |
+| 208 | 気 | き | spirit / feeling | 気をつけます。(I'll be careful.) | 元気ですか。(Are you well?) | 元気ですか、久しぶりですね。(Are you well? It's been a while.) |
+| 209 | 気もち | きもち | feeling | 気もちです。(It's a feeling.) | いい気もちになります。(I feel good.) | いい気もちになりますから、散歩が好きです。(I feel good, so I like walking.) |
+| 210 | 天 | てん | sky / heaven | 天です。(It's the sky.) | 天を見ます。(I look at the sky.) | 天を見ますから、少し止まってください。(I'll look at the sky, so please stop for a moment.) |
+| 211 | 天気 | てんき | weather | 天気です。(It's the weather.) | 天気がいいです。(The weather is good.) | 天気がいいですから、洗濯をします。(The weather is good, so I'll do laundry.) |
+| 212 | 雨天 | うてん | rainy weather | 雨天です。(It's rainy weather.) | 雨天でも行きます。(I'll go even in rain.) | 雨天でも行きますから、傘を持ってください。(I'll go even in rain, so please bring an umbrella.) |
+| 213 | 花 | はな | flower | 花です。(It's a flower.) | 花がきれいです。(The flower is pretty.) | 花がきれいですから、写真を撮ります。(The flower is pretty, so I'll take a photo.) |
+| 214 | 赤い花 | あかいはな | red flower | 赤い花です。(It's a red flower.) | 赤い花が好きです。(I like red flowers.) | 赤い花が好きですから、庭にたくさん植えます。(I like red flowers, so I plant many in the garden.) |
+| 215 | 花見 | はなみ | flower viewing | 花見です。(It's flower viewing.) | 花見に行きます。(I'll go flower viewing.) | 花見に行きますから、お弁当を作ります。(I'll go flower viewing, so I'll make a lunch box.) |
+| 216 | 魚 | さかな | fish | 魚です。(It's fish.) | 魚を食べます。(I eat fish.) | 魚を食べますから、お箸を使います。(I eat fish, so I use chopsticks.) |
+| 217 | 金魚 | きんぎょ | goldfish | 金魚です。(It's a goldfish.) | 金魚がいます。(There's a goldfish.) | 金魚がいますから、毎日えさをあげます。(There's a goldfish, so I feed it every day.) |
+| 218 | 本 | ほん | book | 本です。(It's a book.) | 本を読みます。(I read a book.) | 本を読みますから、静かにしてください。(I'm reading a book, so please be quiet.) |
+| 219 | 本を読みます | ほんをよみます | I read a book (dup. of #218) | 本を読みます。(I read a book.) | 毎晩、本を読みます。(I read a book every night.) | 毎晩本を読みますから、日本語が上手になりました。(I read a book every night, so I became good at Japanese.) |
+| 220 | 本だな | ほんだな | bookshelf | 本だなです。(It's a bookshelf.) | 本だながあります。(There's a bookshelf.) | 本だなに本がたくさんありますから、片付けます。(There are many books on the bookshelf, so I'll tidy up.) |
+| 221 | 語 | ご | language / word | 語です。(It's a word.) | 日本語です。(It's Japanese.) | 日本語ですから、少し難しいです。(It's Japanese, so it's a bit difficult.) |
+| 222 | 二本 | にほん | two (long objects) | 二本です。(It's two.) | えんぴつが二本あります。(There are two pencils.) | えんぴつが二本ありますから、一本貸します。(There are two pencils, so I'll lend you one.) |
+| 223 | 日本語 | にほんご | Japanese language | 日本語です。(It's Japanese.) | 日本語を勉強します。(I study Japanese.) | 日本語を勉強しますから、毎日練習します。(I study Japanese, so I practice every day.) |
+| 224 | スペイン語 | スペインご | Spanish language | スペイン語です。(It's Spanish.) | スペイン語を話します。(I speak Spanish.) | スペイン語を話しますが、日本語のほうが上手です。(I speak Spanish, but I'm better at Japanese.) |
+| 225 | 国 [?] | くに | country | 国です。(It's a country.) | これは私の国です。(This is my country.) | これは私の国ですから、よく知っています。(This is my country, so I know it well.) |
+| 226 | 外国人 | がいこくじん | foreigner | 外国人です。(I'm a foreigner.) | 外国人が多いです。(There are many foreigners.) | この町は外国人が多いですから、いろいろな言葉が聞こえます。(This town has many foreigners, so you hear various languages.) |
+| 227 | 国へかえります | くにへかえります | to return to one's country | 国へかえります。(I'll return to my country.) | 来月、国へかえります。(I'll return to my country next month.) | 来月国へかえりますから、荷物を整理します。(I'll return to my country next month, so I'll organize my belongings.) |
+| 228 | 多 | た | many / much | 多いです。(It's many.) | 種類が多いです。(There are many types.) | 種類が多いですから、選ぶのに時間がかかります。(There are many types, so it takes time to choose.) |
+| 229 | 多い人 | おおいひと | many people | 多い人です。(It's many people.) | 週末は多い人が来ます。(Many people come on weekends.) | 週末は多い人が来ますから、早く並びましょう。(Many people come on weekends, so let's line up early.) |
+| 230 | 午前 [?] | ごぜん | morning / AM | 午前です。(It's the morning.) | 午前九時に会います。(I'll meet at 9 AM.) | 午前九時に会いますから、遅れないでください。(I'll meet at 9 AM, so please don't be late.) |
+| 231 | 同 | どう | same | 同じです。(It's the same.) | 同じ意見です。(I have the same opinion.) | 同じ意見ですから、一緒に話しましょう。(We have the same opinion, so let's talk together.) |
+| 232 | 同じ国 | おなじくに | the same country | 同じ国です。(It's the same country.) | 私たちは同じ国から来ました。(We came from the same country.) | 私たちは同じ国から来ましたから、友達になりました。(We came from the same country, so we became friends.) |
+| 233 | 白 | しろ | white | 白です。(It's white.) | 白が好きです。(I like white.) | 白が好きですから、白い服をよく買います。(I like white, so I often buy white clothes.) |
+| 234 | 白いシャツ [?] | しろいシャツ | white shirt | 白いシャツです。(It's a white shirt.) | 白いシャツを着ます。(I wear a white shirt.) | 白いシャツを着ますから、コーヒーを飲みません。(I'm wearing a white shirt, so I won't drink coffee.) |
+| 235 | 物 | もの | thing | 物です。(It's a thing.) | 物があります。(There's a thing.) | 好きな物がありますから、選んでください。(There's a thing I like, so please choose.) |
+| 236 | 親しい物 [?] | したしいもの | familiar thing | 親しい物です。(It's a familiar thing.) | 親しい物が好きです。(I like familiar things.) | 親しい物が好きですから、あまり新しい物を買いません。(I like familiar things, so I don't buy many new things.) |
+| 237 | くだ物 | くだもの | fruit (果物) | くだ物です。(It's fruit.) | くだ物を食べます。(I eat fruit.) | くだ物を食べますから、健康にいいです。(I eat fruit, so it's good for my health.) |
+| 238 | 大 | だい | big / large | 大です。(It's large.) | 大サイズです。(It's a large size.) | 大サイズですから、二人で食べられます。(It's a large size, so two people can eat it.) |
+| 239 | 大学 | だいがく | university (dup. of #127) | 大学です。(It's a university.) | 大学生です。(I'm a university student.) | 大学生ですから、来年卒業します。(I'm a university student, so I'll graduate next year.) |
+| 240 | 大きい声 [?] | おおきいこえ | loud voice | 大きい声です。(It's a loud voice.) | 大きい声で話します。(I speak in a loud voice.) | 大きい声で話しますから、後ろの人も聞こえます。(I speak in a loud voice, so people in the back can hear too.) |
+| 241 | 大人 | おとな | adult (dup. of #108) | 大人です。(I'm an adult.) | 大人になりました。(I became an adult.) | 大人になりましたから、一人で電車に乗ります。(I became an adult, so I ride the train alone.) |
+| 242 | 大使館 [?] | たいしかん | embassy | 大使館です。(It's the embassy.) | 大使館へ行きます。(I'll go to the embassy.) | 大使館へ行きますから、パスポートを持っていきます。(I'll go to the embassy, so I'll bring my passport.) |
+| 243 | 小 | しょう | small | 小です。(It's small.) | 小サイズです。(It's a small size.) | 小サイズですから、一人で食べます。(It's a small size, so I'll eat it alone.) |
+| 244 | 小学校 | しょうがっこう | elementary school | 小学校です。(It's an elementary school.) | 小学校に通います。(I attend elementary school.) | 小学校に通いますから、毎朝バスに乗ります。(I attend elementary school, so I take the bus every morning.) |
+| 245 | 小さい駅 | ちいさいえき | small station | 小さい駅です。(It's a small station.) | 小さい駅で降ります。(I get off at the small station.) | 小さい駅で降りますから、乗り過ごさないでください。(I get off at the small station, so please don't miss it.) |
+| 246 | 多 | た | many (dup. of #228) | 多くです。(It's many.) | 多くの人がいます。(There are many people.) | 多くの人がいますから、少し待ちましょう。(There are many people, so let's wait a bit.) |
+| 247 | 車が多い | くるまがおおい | there are many cars | 車が多いです。(There are many cars.) | このへんは車が多いです。(There are many cars in this area.) | このへんは車が多いですから、気をつけてください。(There are many cars in this area, so please be careful.) |
+| 248 | 多大 [?] | ただい | great / immense | 多大です。(It's immense.) | 多大な影響です。(It's a great influence.) | 多大な影響がありますから、注意してください。(There's a great influence, so please be careful.) |
+| 249 | 少 | しょう | few / little | 少しです。(It's a little.) | 少し待ちます。(I'll wait a little.) | 少し待ちますから、先に行ってください。(I'll wait a little, so please go ahead.) |
+| 250 | 人が少ない | ひとがすくない | there are few people | 人が少ないです。(There are few people.) | 平日は人が少ないです。(There are few people on weekdays.) | 平日は人が少ないですから、静かに買い物ができます。(There are few people on weekdays, so I can shop quietly.) |
+| 251 | 時間が少しあります | じかんがすこしあります | there's a little time | 時間が少しあります。(There's a little time.) | まだ時間が少しあります。(There's still a little time.) | まだ時間が少しありますから、お茶を飲みましょう。(There's still a little time, so let's drink tea.) |
+| 252 | 親 | おや | parent | 親です。(He's a parent.) | 親に感謝します。(I'm grateful to my parents.) | 親に感謝しますから、電話をかけます。(I'm grateful to my parents, so I'll call them.) |
+| 253 | 親切な人 [?] | しんせつなひと | kind person | 親切な人です。(He's a kind person.) | 親切な人に会いました。(I met a kind person.) | 道に迷ったとき、親切な人に会いました。(When I was lost, I met a kind person.) |
+| 254 | 古 | こ / ふる | old | 古いです。(It's old.) | 古い家です。(It's an old house.) | 古い家ですが、とても静かです。(It's an old house, but it's very quiet.) |
+| 255 | 古いパソコン | ふるいパソコン | old computer | 古いパソコンです。(It's an old computer.) | 古いパソコンを使います。(I use an old computer.) | 古いパソコンを使いますから、時々遅いです。(I use an old computer, so it's sometimes slow.) |
+| 256 | 古本 | ふるほん | used/old book | 古本です。(It's a used book.) | 古本を買います。(I buy a used book.) | 古本を買いますから、店でよく探します。(I buy used books, so I often search at the shop.) |
+| 257 | 古里 | ふるさと | hometown | 古里です。(It's my hometown.) | 古里に帰ります。(I'll return to my hometown.) | 古里に帰りますから、家族に会えます。(I'll return to my hometown, so I can meet my family.) |
+| 258 | 高校 [?] | こうこう | high school | 高校です。(It's a high school.) | 高校に通います。(I attend high school.) | 高校に通いますから、毎日電車に乗ります。(I attend high school, so I ride the train every day.) |
+| 259 | 高 | こう / たか | high / tall | 高いです。(It's tall.) | 高い山です。(It's a tall mountain.) | 高い山ですから、上るのに時間がかかります。(It's a tall mountain, so it takes time to climb.) |
+| 260 | 高いビル | たかいビル | tall building | 高いビルです。(It's a tall building.) | 高いビルが並んでいます。(Tall buildings are lined up.) | 高いビルが並んでいますから、写真を撮ります。(Tall buildings are lined up, so I'll take a photo.) |
+| 261 | 高校生 [?] | こうこうせい | high school student | 高校生です。(I'm a high school student.) | 高校生になりました。(I became a high school student.) | 高校生になりましたから、部活動を始めます。(I became a high school student, so I'll start a club activity.) |
+| 262 | 安 | あん | cheap / peace | 安いです。(It's cheap.) | 安全です。(It's safe.) | 安全ですから、子供も使えます。(It's safe, so children can use it too.) |
+| 263 | 安い車 | やすいくるま | cheap car | 安い車です。(It's a cheap car.) | 安い車を買いました。(I bought a cheap car.) | 安い車を買いましたから、あまりお金を使いませんでした。(I bought a cheap car, so I didn't spend much money.) |
+| 264 | 安全 | あんぜん | safety | 安全です。(It's safe.) | 安全に運転します。(I drive safely.) | 安全に運転しますから、心配しないでください。(I drive safely, so please don't worry.) |
+| 265 | 平安 [?] | へいあん | peace | 平安です。(It's peaceful.) | 平安な生活です。(It's a peaceful life.) | 平安な生活ですから、毎日楽しいです。(It's a peaceful life, so every day is enjoyable.) |
+| 266 | 長 | ちょう | long / chief | 長いです。(It's long.) | 部長です。(He's the department chief.) | 部長ですから、みんな話を聞きます。(He's the department chief, so everyone listens to him.) |
+| 267 | 校長 [?] | こうちょう | school principal | 校長です。(He's the principal.) | 校長先生です。(He's the school principal.) | 校長先生ですから、学校でよく会います。(He's the school principal, so I see him often at school.) |
+| 268 | 長い | ながい | long | 長いです。(It's long.) | 髪が長いです。(The hair is long.) | 髪が長いですから、切りに行きます。(My hair is long, so I'll go get it cut.) |
+| 269 | 近 | きん / ちか | near | 近いです。(It's near.) | 近い将来です。(It's the near future.) | 近い将来、この町に住むつもりです。(In the near future, I intend to live in this town.) |
+| 270 | 近い店 | ちかいみせ | nearby store | 近い店です。(It's a nearby store.) | 近い店で買います。(I buy at a nearby store.) | 近い店で買いますから、歩いて行きます。(I buy at a nearby store, so I go on foot.) |
+| 271 | 近 | ちか | near (dup. of #269) | 近くです。(It's nearby.) | 近くの公園で遊びます。(I play in the nearby park.) | 近くの公園で遊びますから、すぐ帰れます。(I play in the nearby park, so I can come home quickly.) |
+| 272 | 女子 | じょし | girl (dup. of #122) | 女子です。(She's a girl.) | 女子会をします。(We'll have a girls' gathering.) | 女子会をしますから、レストランを予約します。(We'll have a girls' gathering, so I'll reserve a restaurant.) |
+| 273 | 大女子 [?] | おおじょし | tall/big woman | 大女子です。(She's a tall woman.) | 大女子と呼ばれています。(She's called "tall woman.") | 大女子と呼ばれていますから、バスケットボールが上手です。(She's called "tall woman," so she's good at basketball.) |
+| 274 | 女子から [?] | じょしから | from the girls | 女子からです。(It's from the girls.) | 女子からメッセージが来ました。(A message came from the girls.) | 女子からメッセージが来ましたから、すぐ返事します。(A message came from the girls, so I'll reply right away.) |
+| 275 | 行 | こう / い / ぎょう | go / line | 行きます。(I go.) | 学校へ行きます。(I go to school.) | 学校へ行きますから、朝ご飯を食べます。(I go to school, so I eat breakfast.) |
+| 276 | 銀行 | ぎんこう | bank | 銀行です。(It's a bank.) | 銀行へ行きます。(I go to the bank.) | 銀行へ行きますから、お金をおろします。(I go to the bank, so I'll withdraw money.) |
+| 277 | 会社へ行きます | かいしゃへいきます | I go to the company | 会社へ行きます。(I go to the company.) | 毎朝、会社へ行きます。(I go to the company every morning.) | 毎朝会社へ行きますから、電車が混んでいます。(I go to the company every morning, so the train is crowded.) |
+| 278 | 歩いて行く [?] | あるいていく | to go on foot | 歩いて行きます。(I'll go on foot.) | 駅まで歩いて行きます。(I'll walk to the station.) | 天気がいいですから、駅まで歩いて行きます。(The weather is good, so I'll walk to the station.) |
+| 279 | 来 | らい / く | come | 来ます。(I'll come.) | 来月です。(It's next month.) | 来月来ますから、部屋を用意します。(He'll come next month, so I'll prepare a room.) |
+| 280 | 来週 | らいしゅう | next week (dup. of #25) | 来週です。(It's next week.) | 来週、会います。(I'll meet you next week.) | 来週会いますから、今から楽しみです。(I'll meet you next week, so I'm already looking forward to it.) |
+| 281 | 来ます | きます | to come | 来ます。(I'll come.) | 友達が来ます。(A friend is coming.) | 友達が来ますから、部屋を掃除します。(A friend is coming, so I'll clean the room.) |
+| 282 | 帰 | き | return | 帰ります。(I return.) | 家に帰ります。(I return home.) | 家に帰りますから、電気を消します。(I return home, so I'll turn off the lights.) |
+| 283 | 帰国 | きこく | returning to one's country | 帰国します。(I'll return to my country.) | 来月、帰国します。(I'll return to my country next month.) | 来月帰国しますから、切符を買います。(I'll return to my country next month, so I'll buy a ticket.) |
+| 284 | 食 | しょく | eat / food | 食べます。(I eat.) | 朝食を食べます。(I eat breakfast.) | 朝食を食べますから、七時に起きます。(I eat breakfast, so I wake up at seven.) |
+| 285 | 食事をします | しょくじをします | to have a meal | 食事をします。(I'll have a meal.) | 家族と食事をします。(I have a meal with family.) | 家族と食事をしますから、早く帰ります。(I'll have a meal with family, so I'll go home early.) |
+| 286 | 魚を食べます | さかなをたべます | I eat fish | 魚を食べます。(I eat fish.) | 毎晩、魚を食べます。(I eat fish every night.) | 毎晩魚を食べますから、健康です。(I eat fish every night, so I'm healthy.) |
+| 287 | 食べ物 | たべもの | food | 食べ物です。(It's food.) | 好きな食べ物は何ですか。(What food do you like?) | 好きな食べ物は何ですか、教えてください。(What food do you like? Please tell me.) |
+| 288 | 飲 | いん / の | drink | 飲みます。(I drink.) | 水を飲みます。(I drink water.) | 水を飲みますから、コップをください。(I'll drink water, so please give me a cup.) |
+| 289 | 飲み物 | のみもの | drink / beverage | 飲み物です。(It's a drink.) | 好きな飲み物は何ですか。(What drink do you like?) | 好きな飲み物は何ですか、注文しましょう。(What drink do you like? Let's order.) |
+| 290 | 飲みます | のみます | to drink | コーヒーを飲みます。(I drink coffee.) | 毎朝、コーヒーを飲みます。(I drink coffee every morning.) | 毎朝コーヒーを飲みますから、元気になります。(I drink coffee every morning, so I become energized.) |
+| 291 | 買 | ばい | buy | 買います。(I'll buy it.) | 服を買います。(I buy clothes.) | 服を買いますから、デパートへ行きます。(I'll buy clothes, so I'll go to the department store.) |
+| 292 | かばんを買います | かばんをかいます | I buy a bag | かばんを買います。(I buy a bag.) | 新しいかばんを買います。(I'll buy a new bag.) | 新しいかばんを買いますから、お金を貯めます。(I'll buy a new bag, so I'll save money.) |
+| 293 | 買い物 | かいもの | shopping | 買い物します。(I'll go shopping.) | 週末に買い物します。(I go shopping on weekends.) | 週末に買い物しますから、リストを作ります。(I go shopping on weekends, so I'll make a list.) |
+| 294 | 六 | ろく | six (dup. of #51) | 六です。(It's six.) | 六個あります。(There are six pieces.) | 六個ありますから、二個ずつ分けます。(There are six pieces, so I'll split them two each.) |
+| 295 | 六才 [?] | ろくさい | six years old | 六才です。(I'm six years old.) | 弟は六才です。(My little brother is six years old.) | 弟は六才ですから、まだ小学生ではありません。(My little brother is six years old, so he's not an elementary student yet.) |
+| 296 | 国立 | こくりつ | national (institution) | 国立です。(It's national.) | 国立大学です。(It's a national university.) | 国立大学ですから、学費が安いです。(It's a national university, so tuition is cheap.) |
+| 297 | 休 | きゅう | rest | 休みます。(I'll rest.) | 今日は休みです。(Today is a day off.) | 今日は休みですから、家でゆっくりします。(Today is a day off, so I'll relax at home.) |
+| 298 | 休む | やすむ | to rest | 家で休みます。(I rest at home.) | 少し休みます。(I'll rest a little.) | 疲れましたから、少し休みます。(I got tired, so I'll rest a little.) |
+| 299 | 休日 | きゅうじつ | holiday / day off | 休日です。(It's a day off.) | 休日に旅行します。(I travel on holidays.) | 休日に旅行しますから、荷物を準備します。(I travel on holidays, so I'll prepare my luggage.) |
+| 300 | 言 | げん / い | say / word | 言います。(I say.) | 一言だけ言います。(I'll just say one word.) | 一言だけ言いますから、聞いてください。(I'll just say one word, so please listen.) |
+| 301 | 名前を言います | なまえをいいます | to say one's name | 名前を言います。(I say my name.) | 大きな声で名前を言います。(I say my name in a loud voice.) | 大きな声で名前を言いますから、みんな聞こえます。(I say my name in a loud voice, so everyone can hear.) |
+| 302 | 言語 [?] | げんご | language | 言語です。(It's a language.) | 言語を学びます。(I learn a language.) | 言語を学びますから、辞書を買いました。(I learn a language, so I bought a dictionary.) |
+| 303 | 電話 | でんわ | telephone | 電話です。(It's a phone.) | 電話で話します。(I talk on the phone.) | 電話で話しますから、静かな部屋を探します。(I'll talk on the phone, so I'll find a quiet room.) |
+| 304 | 日本語を話します | にほんごをはなします | I speak Japanese | 日本語を話します。(I speak Japanese.) | 少し日本語を話します。(I speak a little Japanese.) | 少し日本語を話しますから、ゆっくり話してください。(I speak a little Japanese, so please speak slowly.) |
+| 305 | おもしろい話 | おもしろいはなし | interesting story | おもしろい話です。(It's an interesting story.) | おもしろい話を聞きました。(I heard an interesting story.) | おもしろい話を聞きましたから、友達にも話します。(I heard an interesting story, so I'll tell my friend too.) |
+| 306 | 書 | しょ | write / document | 書きます。(I write.) | 手紙を書きます。(I write a letter.) | 手紙を書きますから、切手をください。(I'll write a letter, so please give me a stamp.) |
+| 307 | 教科書 | きょうかしょ | textbook | 教科書です。(It's a textbook.) | 教科書を読みます。(I read the textbook.) | 教科書を読みますから、静かにしてください。(I'm reading the textbook, so please be quiet.) |
+| 308 | 手紙を書きます | てがみをかきます | I write a letter (dup. of #91) | 手紙を書きます。(I write a letter.) | 友達に手紙を書きます。(I write a letter to my friend.) | 友達に手紙を書きますから、今晩時間があります。(I'll write a letter to my friend, so I have time tonight.) |
+| 309 | 読 | どく | read | 読みます。(I read.) | 本を読みます。(I read a book.) | 本を読みますから、電気をつけます。(I'm reading a book, so I'll turn on the light.) |
+| 310 | 読書 | どくしょ | reading (books) | 読書です。(It's reading.) | 読書が好きです。(I like reading.) | 読書が好きですから、よく図書館へ行きます。(I like reading, so I often go to the library.) |
+| 311 | 本を読みます | ほんをよみます | I read a book (dup. of #218) | 本を読みます。(I read a book.) | 電車で本を読みます。(I read a book on the train.) | 電車で本を読みますから、いつも早く駅に着きます。(I read a book on the train, so I always arrive at the station early.) |
+| 312 | 聞 | ぶん / き | hear / listen / ask | 聞きます。(I listen.) | 音楽を聞きます。(I listen to music.) | 音楽を聞きますから、ヘッドホンをつけます。(I listen to music, so I put on headphones.) |
+| 313 | 新聞 [?] | しんぶん | newspaper | 新聞です。(It's a newspaper.) | 新聞を読みます。(I read the newspaper.) | 新聞を読みますから、コーヒーを飲みます。(I read the newspaper, so I drink coffee.) |
+| 314 | ラジオを聞きます | ラジオをききます | I listen to the radio | ラジオを聞きます。(I listen to the radio.) | 車の中でラジオを聞きます。(I listen to the radio in the car.) | 車の中でラジオを聞きますから、退屈しません。(I listen to the radio in the car, so I don't get bored.) |
+| 315 | 見 | けん / み | see / look | 見ます。(I look.) | 映画を見ます。(I watch a movie.) | 映画を見ますから、チケットを買います。(I'll watch a movie, so I'll buy a ticket.) |
+| 316 | 見学 | けんがく | study tour / field trip | 見学します。(I'll take a tour.) | 工場を見学します。(I'll tour the factory.) | 工場を見学しますから、朝早く集まります。(I'll tour the factory, so we'll gather early in the morning.) |
+| 317 | 映画を見ます | えいがをみます | I watch a movie | 映画を見ます。(I watch a movie.) | 週末に映画を見ます。(I watch a movie on the weekend.) | 週末に映画を見ますから、今から予定を立てます。(I watch a movie on the weekend, so I'll make plans now.) |
+| 318 | 入 | にゅう | enter | 入ります。(I enter.) | 部屋に入ります。(I enter the room.) | 部屋に入りますから、ノックします。(I'll enter the room, so I'll knock.) |
+| 319 | 入る | はいる | to enter | 部屋に入ります。(I enter the room.) | 会社に入ります。(I'll join the company.) | 来月会社に入りますから、今準備しています。(I'll join the company next month, so I'm preparing now.) |
+| 320 | 入れる | いれる | to put in / insert | かばんに入れます。(I put it in the bag.) | 砂糖を入れます。(I add sugar.) | コーヒーに砂糖を入れますから、甘くなります。(I put sugar in the coffee, so it becomes sweet.) |
+| 321 | 入口 | いりぐち | entrance (dup. of #74) | 入口です。(It's the entrance.) | 入口で待ちます。(I'm waiting at the entrance.) | 入口で待ちますから、迷わないでください。(I'll wait at the entrance, so please don't get lost.) |
+| 322 | 出 | しゅつ | exit / go out | 出ます。(I go out.) | 家を出ます。(I leave home.) | 家を出ますから、鍵をかけます。(I'll leave home, so I'll lock the door.) |
+| 323 | 出かける | でかける | to go out | 出かけます。(I go out.) | 友達と出かけます。(I go out with a friend.) | 天気がいいですから、友達と出かけます。(The weather is good, so I'll go out with a friend.) |
+
+---
+
+## Coverage summary
+
+- **Total entries:** 323 (source #198 was blank in the original notes)
+- **Items flagged `[?]`:** ~25, where handwriting was ambiguous — please verify against your textbook
+- **Grammar constraint:** every Easy/Medium/Hard sentence uses only N5-level grammar and vocabulary. Difficulty scales through clause length and joining (て-form / から / とき), never through more advanced grammar points.
+- **Columns:** #, Kanji/Word, Hiragana, English Meaning, 🟢 Easy, 🟡 Medium, 🔴 Hard — ready to split by `markdown_parser.py` into rows matching your CSV schema.

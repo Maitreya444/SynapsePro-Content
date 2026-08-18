@@ -1,0 +1,323 @@
+﻿No,Kanji,Question,OptionA,OptionB,OptionC,OptionD,CorrectAnswer,CorrectLetter
+1,月,What is the reading and meaning of this kanji?,しがつ — April,つき — moon / month,はちがつ — August,にがつ — February,つき — moon / month,B
+2,月ようび,What is the reading and meaning of this kanji?,いっかげつ — one month,つき — moon / month,にがつ — February,げつようび — Monday,げつようび — Monday,D
+3,四月,What is the reading and meaning of this kanji?,しちがつ — July,しがつ — April,はちがつ — August,にがつ — February,しがつ — April,B
+4,月を見る,What is the reading and meaning of this kanji?,つきをみる — to look at the moon,つき — moon / month,にがつ — February,えいがをみます — I watch a movie,つきをみる — to look at the moon,A
+5,火,What is the reading and meaning of this kanji?,かようび — Tuesday,ひはあぶない — fire is dangerous,かざん — volcano,ひ — fire,ひ — fire,D
+6,火ようび,What is the reading and meaning of this kanji?,ひはあぶない — fire is dangerous,かようび — Tuesday,かざん — volcano,ひ — fire,かようび — Tuesday,B
+7,火山,What is the reading and meaning of this kanji?,かざん — volcano,ひ — fire,ふじさん — Mt. Fuji,やま — mountain,かざん — volcano,A
+8,火はあぶない,What is the reading and meaning of this kanji?,ひ — fire,かようび — Tuesday,かざん — volcano,ひはあぶない — fire is dangerous,ひはあぶない — fire is dangerous,D
+9,水,What is the reading and meaning of this kanji?,プールのみず — pool water,みず — water,みぎ — right,すいようび — Wednesday,みず — water,B
+10,水ようび,What is the reading and meaning of this kanji?,かようび — Tuesday,プールのみず — pool water,みず — water,すいようび — Wednesday,すいようび — Wednesday,D
+11,プールの水,What is the reading and meaning of this kanji?,すいようび — Wednesday,テーブルのした — under the table,みず — water,プールのみず — pool water,プールのみず — pool water,D
+12,木,What is the reading and meaning of this kanji?,き — tree,"たかぎ — tall tree / surname ""Takagi""",ぼくとう — wooden sword,きぎ — trees (plural),き — tree,A
+13,木ようび,What is the reading and meaning of this kanji?,"たかぎ — tall tree / surname ""Takagi""",ぼくとう — wooden sword,き — tree,もくようび — Thursday,もくようび — Thursday,D
+14,木刀,What is the reading and meaning of this kanji?,きぎ — trees (plural),もくようび — Thursday,ぼくとう — wooden sword,き — tree,ぼくとう — wooden sword,C
+15,木々,What is the reading and meaning of this kanji?,"たかぎ — tall tree / surname ""Takagi""",きぎ — trees (plural),き — tree,ぼくとう — wooden sword,きぎ — trees (plural),B
+16,高木,What is the reading and meaning of this kanji?,"たかぎ — tall tree / surname ""Takagi""",きぎ — trees (plural),こう / たか — high / tall,たかいやま — tall mountain,"たかぎ — tall tree / surname ""Takagi""",A
+17,金,What is the reading and meaning of this kanji?,おかね — money,きんようび — Friday,きんぎょ — goldfish,きん / かね — gold / money,きん / かね — gold / money,D
+18,金ようび,What is the reading and meaning of this kanji?,きんようび — Friday,きん / かね — gold / money,おかね — money,きんぎょ — goldfish,きんようび — Friday,A
+19,お金,What is the reading and meaning of this kanji?,きん / かね — gold / money,きんぎょ — goldfish,きんようび — Friday,おかね — money,おかね — money,D
+20,土,What is the reading and meaning of this kanji?,つち — soil / earth,ちち — father (own),はち — eight,どようび — Saturday,つち — soil / earth,A
+21,土ようび,What is the reading and meaning of this kanji?,つち — soil / earth,かようび — Tuesday,どようび — Saturday,もくようび — Thursday,どようび — Saturday,C
+22,週,What is the reading and meaning of this kanji?,まいしゅう — every week,らいしゅう — next week,しゅう — week,こんしゅう — this week,しゅう — week,C
+23,今週,What is the reading and meaning of this kanji?,せんしゅう — last week,らいしゅう — next week,こんしゅう — this week,しゅう — week,こんしゅう — this week,C
+24,先週,What is the reading and meaning of this kanji?,しゅう — week,らいしゅう — next week,こんしゅう — this week,せんしゅう — last week,せんしゅう — last week,D
+25,来週,What is the reading and meaning of this kanji?,こんしゅう — this week,まいしゅう — every week,しゅう — week,らいしゅう — next week,らいしゅう — next week,D
+26,一週間,What is the reading and meaning of this kanji?,しゅう — week,はっしゅうかん — eight weeks,いっしゅうかん — one week,らいしゅう — next week,いっしゅうかん — one week,C
+27,年,What is the reading and meaning of this kanji?,とし / ねん — year,ろくねん — six years,らいねん — next year,ことし — this year,とし / ねん — year,A
+28,今年,What is the reading and meaning of this kanji?,とし / ねん — year,はんとし — half a year,ことし — this year,こんしゅう — this week,ことし — this year,C
+29,来年,What is the reading and meaning of this kanji?,らいねん — next year,らい / く — come,いちねん — one year,とし / ねん — year,らいねん — next year,A
+30,毎,What is the reading and meaning of this kanji?,ばい — buy,まいにち — every day,まい — every,まいしゅう — every week,まい — every,C
+31,毎日,What is the reading and meaning of this kanji?,まい — every,まいにち — every day,いちにちめ — the first day,はんにち — half a day,まいにち — every day,B
+32,毎週,What is the reading and meaning of this kanji?,まいしゅう — every week,まい — every,しゅう — week,らいしゅう — next week,まいしゅう — every week,A
+33,一,What is the reading and meaning of this kanji?,いちにちめ — the first day,いち — one,いちねん — one year,じゅういち — eleven,いち — one,B
+34,一年,What is the reading and meaning of this kanji?,いち — one,いちねん — one year,らいねん — next year,とし / ねん — year,いちねん — one year,B
+35,一か月,What is the reading and meaning of this kanji?,つき — moon / month,いっしゅうかん — one week,いっかげつ — one month,いち — one,いっかげつ — one month,C
+36,一人,What is the reading and meaning of this kanji?,ひと — person,ひとり — one person / alone,おおいひと — many people,ひとつ — one (thing),ひとり — one person / alone,B
+37,一つ,What is the reading and meaning of this kanji?,ひとつ — one (thing),いっかげつ — one month,ひとり — one person / alone,いち — one,ひとつ — one (thing),A
+38,二,What is the reading and meaning of this kanji?,にがつ — February,に — two,にほん — two (long objects),にふん — two minutes,に — two,B
+39,三,What is the reading and meaning of this kanji?,さん — three,さんにん — three people,みっつ — three (things),さんびゃくえん — 300 yen,さん — three,A
+40,二月,What is the reading and meaning of this kanji?,しがつ — April,にがつ — February,に — two,しちがつ — July,にがつ — February,B
+41,二つ,What is the reading and meaning of this kanji?,ふたり — two people,ふつかめ — the second day,にふん — two minutes,ふたつ — two (things),ふたつ — two (things),D
+42,二人,What is the reading and meaning of this kanji?,ひとり — one person / alone,ふたつ — two (things),にふん — two minutes,ふたり — two people,ふたり — two people,D
+43,三人,What is the reading and meaning of this kanji?,ごにん — five people,さんにん — three people,さん — three,せんにん — a thousand people,さんにん — three people,B
+44,三つ,What is the reading and meaning of this kanji?,みっつ — three (things),さん — three,さんびゃくえん — 300 yen,さんにん — three people,みっつ — three (things),A
+45,四月,What is the reading and meaning of this kanji?,はちがつ — August,にがつ — February,しがつ — April,しちがつ — July,しがつ — April,C
+46,四,What is the reading and meaning of this kanji?,し / よん — four,よんほん — four (long objects),しがつ — April,よにん — four people,し / よん — four,A
+47,四本,What is the reading and meaning of this kanji?,よにん — four people,にほん — two (long objects),よんほん — four (long objects),ほん — book,よんほん — four (long objects),C
+48,四人,What is the reading and meaning of this kanji?,さんにん — three people,よにん — four people,し / よん — four,ごにん — five people,よにん — four people,B
+49,五,What is the reading and meaning of this kanji?,ご — language / word,ご — five,ごがついつか — May 5th,ごにん — five people,ご — five,B
+50,五月五日,What is the reading and meaning of this kanji?,しがつ — April,ごがついつか — May 5th,しちがつ — July,にがつ — February,ごがついつか — May 5th,B
+51,六,What is the reading and meaning of this kanji?,ろくさい — six years old,ろく — six,いまろくじです — it's six o'clock now,ろくねん — six years,ろく — six,B
+52,六年,What is the reading and meaning of this kanji?,ろくさい — six years old,ろく — six,とし / ねん — year,ろくねん — six years,ろくねん — six years,D
+53,六つ,What is the reading and meaning of this kanji?,ろく — six,ろくさい — six years old,ろくねん — six years,むっつ — six (things),むっつ — six (things),D
+54,七月,What is the reading and meaning of this kanji?,はちがつ — August,しちがつ — July,しちじ — seven o'clock,しがつ — April,しちがつ — July,B
+55,七がつ,What is the reading and meaning of this kanji?,しちじ — seven o'clock,しがつ — April,はちがつ — August,しちがつ — July,しちがつ — July,D
+56,八,What is the reading and meaning of this kanji?,はちがつ — August,はち — eight,はちじはん — 8:30,はっしゅうかん — eight weeks,はち — eight,B
+57,八月,What is the reading and meaning of this kanji?,にがつ — February,はち — eight,しちがつ — July,はちがつ — August,はちがつ — August,D
+58,八週間,What is the reading and meaning of this kanji?,こんしゅう — this week,はっしゅうかん — eight weeks,しゅう — week,いっしゅうかん — one week,はっしゅうかん — eight weeks,B
+59,八日,What is the reading and meaning of this kanji?,とおか — the 10th / ten days,ようか — the 8th / eight days,はっしゅうかん — eight weeks,きょう — today,ようか — the 8th / eight days,B
+60,十一,What is the reading and meaning of this kanji?,いちねん — one year,いち — one,じゅうがつ — October,じゅういち — eleven,じゅういち — eleven,D
+61,十月,What is the reading and meaning of this kanji?,しがつ — April,にがつ — February,じゅういち — eleven,じゅうがつ — October,じゅうがつ — October,D
+62,十日,What is the reading and meaning of this kanji?,ごがついつか — May 5th,ふつかめ — the second day,ようか — the 8th / eight days,とおか — the 10th / ten days,とおか — the 10th / ten days,D
+63,百,What is the reading and meaning of this kanji?,さんびゃくえん — 300 yen,ひゃくにん — a hundred people,ひゃく — hundred,ひゃっぽん — a hundred (long objects),ひゃく — hundred,C
+64,百人,What is the reading and meaning of this kanji?,ごにん — five people,ひゃく — hundred,ひゃくにん — a hundred people,ひゃっぽん — a hundred (long objects),ひゃくにん — a hundred people,C
+65,百本,What is the reading and meaning of this kanji?,ひゃく — hundred,ひゃくにん — a hundred people,ひゃっぽん — a hundred (long objects),ほん — book,ひゃっぽん — a hundred (long objects),C
+66,三百円,What is the reading and meaning of this kanji?,えん — yen / circle,さん — three,さんにん — three people,さんびゃくえん — 300 yen,さんびゃくえん — 300 yen,D
+67,千,What is the reading and meaning of this kanji?,せん — thousand,にせんえん — 2000 yen,せんにん — a thousand people,せんせい — teacher,せん — thousand,A
+68,千人,What is the reading and meaning of this kanji?,ごにん — five people,せんにん — a thousand people,せん — thousand,さんにん — three people,せんにん — a thousand people,B
+69,二千円,What is the reading and meaning of this kanji?,せん — thousand,せんにん — a thousand people,にせんえん — 2000 yen,えん — yen / circle,にせんえん — 2000 yen,C
+70,万,What is the reading and meaning of this kanji?,まい — every,"いちまんえん — 10,000 yen",さん — three,まん — ten thousand,まん — ten thousand,D
+71,一万円,What is the reading and meaning of this kanji?,"いちまんえん — 10,000 yen",いちねん — one year,まん — ten thousand,えん — yen / circle,"いちまんえん — 10,000 yen",A
+72,円,What is the reading and meaning of this kanji?,さんびゃくえん — 300 yen,にせんえん — 2000 yen,"いちまんえん — 10,000 yen",えん — yen / circle,えん — yen / circle,D
+73,口,What is the reading and meaning of this kanji?,いりぐち — entrance,くち — mouth,にしぐち — west exit/entrance,でぐち — exit,くち — mouth,B
+74,入口,What is the reading and meaning of this kanji?,くち — mouth,にしぐち — west exit/entrance,いりぐち — entrance,でぐち — exit,いりぐち — entrance,C
+75,出口,What is the reading and meaning of this kanji?,にしぐち — west exit/entrance,いりぐち — entrance,でぐち — exit,くち — mouth,でぐち — exit,C
+76,入口,What is the reading and meaning of this kanji?,でぐち — exit,いりぐち — entrance,くち — mouth,にしぐち — west exit/entrance,いりぐち — entrance,B
+77,口をとじます,What is the reading and meaning of this kanji?,くちをあけます — to open one's mouth,くち — mouth,くちをとじます — to close one's mouth,おおきいくち — big mouth,くちをとじます — to close one's mouth,C
+78,口をあけます,What is the reading and meaning of this kanji?,くちをあけます — to open one's mouth,おおきいくち — big mouth,くちをとじます — to close one's mouth,くち — mouth,くちをあけます — to open one's mouth,A
+79,大きい口,What is the reading and meaning of this kanji?,おおきいくち — big mouth,おおきいこえ — loud voice,おおきいそら — big/vast sky,からだがおおきいです — the body is big,おおきいくち — big mouth,A
+80,駅のかいさつ口,What is the reading and meaning of this kanji?,いりぐち — entrance,えきのかいさつぐち — station ticket gate,でぐち — exit,おおきいくち — big mouth,えきのかいさつぐち — station ticket gate,B
+81,目,What is the reading and meaning of this kanji?,め — eye,いちにちめ — the first day,ふつかめ — the second day,めをあけます — to open one's eyes,め — eye,A
+82,目をあけます,What is the reading and meaning of this kanji?,ふつかめ — the second day,めをあけます — to open one's eyes,めをとじます — to close one's eyes,め — eye,めをあけます — to open one's eyes,B
+83,一日目,What is the reading and meaning of this kanji?,ふつかめ — the second day,いちにちじゅう — all day long,いちにちめ — the first day,いち — one,いちにちめ — the first day,C
+84,二日目,What is the reading and meaning of this kanji?,め — eye,ふたつ — two (things),いちにちめ — the first day,ふつかめ — the second day,ふつかめ — the second day,D
+85,目をとじます,What is the reading and meaning of this kanji?,ふつかめ — the second day,め — eye,めをとじます — to close one's eyes,めをあけます — to open one's eyes,めをとじます — to close one's eyes,C
+86,耳,What is the reading and meaning of this kanji?,みみ — ear,みなみ — south,みみがいたいです — my ear hurts,みみをすませます — to listen carefully,みみ — ear,A
+87,耳がいたいです,What is the reading and meaning of this kanji?,みみ — ear,みみをすませます — to listen carefully,からだがいたいです — my body hurts,みみがいたいです — my ear hurts,みみがいたいです — my ear hurts,D
+88,耳をすませます,What is the reading and meaning of this kanji?,みみをすませます — to listen carefully,てがみをかきます — I write a letter,みみ — ear,みみがいたいです — my ear hurts,みみをすませます — to listen carefully,A
+89,手,What is the reading and meaning of this kanji?,てがみ — letter (手紙),へた — unskillful,て — hand,みぎて — right hand,て — hand,C
+90,右手,What is the reading and meaning of this kanji?,みぎて — right hand,みぎ — right,て — hand,みぎあし — right foot/leg,みぎて — right hand,A
+91,手がみ,What is the reading and meaning of this kanji?,て — hand,てがみ — letter (手紙),てがみをかきます — I write a letter,みぎて — right hand,てがみ — letter (手紙),B
+92,手をあらいます,What is the reading and meaning of this kanji?,てがみをかきます — I write a letter,てをあらいます — to wash one's hands,て — hand,てをあけます — to free up one's hands,てをあらいます — to wash one's hands,B
+93,手をあけます,What is the reading and meaning of this kanji?,てをあらいます — to wash one's hands,てをあけます — to free up one's hands,てがみをかきます — I write a letter,て — hand,てをあけます — to free up one's hands,B
+94,足,What is the reading and meaning of this kanji?,みじかいあし — short legs,ひだりあし — left foot/leg,みぎあし — right foot/leg,あし — foot / leg,あし — foot / leg,D
+95,足が長いです,What is the reading and meaning of this kanji?,ながい — long,あしがながいです — the legs are long,あし — foot / leg,みぎあし — right foot/leg,あしがながいです — the legs are long,B
+96,左足,What is the reading and meaning of this kanji?,ひだり — left,みぎあし — right foot/leg,あし — foot / leg,ひだりあし — left foot/leg,ひだりあし — left foot/leg,D
+97,足ります,What is the reading and meaning of this kanji?,あし — foot / leg,ひだりあし — left foot/leg,あしがながいです — the legs are long,たります — to be enough (足りる),たります — to be enough (足りる),D
+98,みじかい足,What is the reading and meaning of this kanji?,ひだりあし — left foot/leg,あし — foot / leg,みぎあし — right foot/leg,みじかいあし — short legs,みじかいあし — short legs,D
+99,体,What is the reading and meaning of this kanji?,ちいさいからだ — small body,からだがおおきいです — the body is big,からだがいたいです — my body hurts,からだ — body,からだ — body,D
+100,体がいたいです,What is the reading and meaning of this kanji?,からだがおおきいです — the body is big,からだがいたいです — my body hurts,からだ — body,ちいさいからだ — small body,からだがいたいです — my body hurts,B
+101,体力,What is the reading and meaning of this kanji?,からだがいたいです — my body hurts,ちいさいからだ — small body,からだ — body,たいりょく — physical strength,たいりょく — physical strength,D
+102,体が大きいです,What is the reading and meaning of this kanji?,おおきいそら — big/vast sky,おおきいくち — big mouth,からだがいたいです — my body hurts,からだがおおきいです — the body is big,からだがおおきいです — the body is big,D
+103,小さい体,What is the reading and meaning of this kanji?,ちいさいからだ — small body,からだ — body,からだがいたいです — my body hurts,ちいさいえき — small station,ちいさいからだ — small body,A
+104,人,What is the reading and meaning of this kanji?,おとな — adult,ひとり — one person / alone,ひと — person,おおいひと — many people,ひと — person,C
+105,日本人,What is the reading and meaning of this kanji?,にほんご — Japanese language,ひがしにほん — Eastern Japan,にほんじん — Japanese person,にほんごをはなします — I speak Japanese,にほんじん — Japanese person,C
+106,五人,What is the reading and meaning of this kanji?,よにん — four people,ご — five,ごにん — five people,さんにん — three people,ごにん — five people,C
+107,人がおおい,What is the reading and meaning of this kanji?,ひとがおおい — many people,ひと — person,おおいひと — many people,ひとがすくない — there are few people,ひとがおおい — many people,A
+108,大人,What is the reading and meaning of this kanji?,ひと — person,おおいひと — many people,おとな — adult,おとこのひと — man,おとな — adult,C
+109,父,What is the reading and meaning of this kanji?,おとうさん — father (polite),ふし — father and child,ちち — father (own),いちにちめ — the first day,ちち — father (own),C
+110,お父さん,What is the reading and meaning of this kanji?,おかあさん — mother (polite),おとうさん — father (polite),ふし — father and child,ちち — father (own),おとうさん — father (polite),B
+111,父子,What is the reading and meaning of this kanji?,じょし — girl / female,じょし — girl,おおじょし — tall/big woman,ふし — father and child,ふし — father and child,D
+112,母,What is the reading and meaning of this kanji?,ははのひ — Mother's Day,おかあさん — mother (polite),はちじはん — 8:30,はは — mother (own),はは — mother (own),D
+113,母の日,What is the reading and meaning of this kanji?,はは — mother (own),ははのひ — Mother's Day,はんにち — half a day,ひがしにほん — Eastern Japan,ははのひ — Mother's Day,B
+114,お母さん,What is the reading and meaning of this kanji?,おかあさん — mother (polite),はは — mother (own),おとうさん — father (polite),ははのひ — Mother's Day,おかあさん — mother (polite),A
+115,子,What is the reading and meaning of this kanji?,おんなのこ — girl,こ — child,こども — child(ren),じょし — girl / female,こ — child,B
+116,子ども,What is the reading and meaning of this kanji?,おんなのこ — girl,こども — child(ren),こどものとき — when I was a child,こ — child,こども — child(ren),B
+117,山下さんの子,What is the reading and meaning of this kanji?,やましたさんのこ — Mr./Ms. Yamashita's child,おんなのこ — girl,やま — mountain,した — below / under,やましたさんのこ — Mr./Ms. Yamashita's child,A
+118,男,What is the reading and meaning of this kanji?,おとこのひと — man,だんしがくせい — male student,おとこ — man / male,おとな — adult,おとこ — man / male,C
+119,男子学生,What is the reading and meaning of this kanji?,だんしがくせい — male student,けんがく — study tour / field trip,がくせい — student,ちゅうがくせい — junior high student,だんしがくせい — male student,A
+120,男の人,What is the reading and meaning of this kanji?,おとこ — man / male,おとこのひと — man,おおいひと — many people,ひと — person,おとこのひと — man,B
+121,女,What is the reading and meaning of this kanji?,おうじょ — princess,おおじょし — tall/big woman,おんなのこ — girl,おんな — woman / female,おんな — woman / female,D
+122,女子,What is the reading and meaning of this kanji?,おおじょし — tall/big woman,じょし — girl / female,じょし — girl,じょしから — from the girls,じょし — girl / female,B
+123,女の子,What is the reading and meaning of this kanji?,おおじょし — tall/big woman,おんなのこ — girl,じょし — girl,じょし — girl / female,おんなのこ — girl,B
+124,王女,What is the reading and meaning of this kanji?,じょし — girl / female,おおじょし — tall/big woman,じょし — girl,おうじょ — princess,おうじょ — princess,D
+125,学,What is the reading and meaning of this kanji?,がく — study / learning,だいがく — university,けんがく — study tour / field trip,がくせい — student,がく — study / learning,A
+126,学校,What is the reading and meaning of this kanji?,がく — study / learning,がっこう — school,しょうがっこう — elementary school,こうこう — high school,がっこう — school,B
+127,大学,What is the reading and meaning of this kanji?,がく — study / learning,だい — big / large,ただい — great / immense,だいがく — university,だいがく — university,D
+128,生,What is the reading and meaning of this kanji?,こうこうせい — high school student,せんせい — teacher,がくせい — student,せい — life / birth / student,せい — life / birth / student,D
+129,学生,What is the reading and meaning of this kanji?,だんしがくせい — male student,がく — study / learning,ちゅうがくせい — junior high student,がくせい — student,がくせい — student,D
+130,日本で生まれました,What is the reading and meaning of this kanji?,にほんじん — Japanese person,にほんごをはなします — I speak Japanese,にほんご — Japanese language,にほんでうまれました — I was born in Japan,にほんでうまれました — I was born in Japan,D
+131,先,What is the reading and meaning of this kanji?,さき — ahead / previous,さきにいきます — I'll go ahead,せんしゅう — last week,せんせい — teacher,さき — ahead / previous,A
+132,先生,What is the reading and meaning of this kanji?,せんせい — teacher,せんしゅう — last week,せい — life / birth / student,がくせい — student,せんせい — teacher,A
+133,先に行きます,What is the reading and meaning of this kanji?,さきにいきます — I'll go ahead,せんせい — teacher,さき — ahead / previous,かいしゃへいきます — I go to the company,さきにいきます — I'll go ahead,A
+134,友,What is the reading and meaning of this kanji?,そと — outside,ひと — person,とも — friend,もの — thing,とも — friend,C
+135,上,What is the reading and meaning of this kanji?,つくえのうえ — on the desk,じょうず — skillful,おくじょう — rooftop,うえ — top / above,うえ — top / above,D
+136,つくえの上,What is the reading and meaning of this kanji?,のぼる — to climb / ascend,つくえのうえ — on the desk,おくじょう — rooftop,うえ — top / above,つくえのうえ — on the desk,B
+137,上がる,What is the reading and meaning of this kanji?,のぼる — to climb / ascend,うえ — top / above,あがる — to rise / go up,あげる — to raise / give,あがる — to rise / go up,C
+138,上げる,What is the reading and meaning of this kanji?,あげる — to raise / give,のぼる — to climb / ascend,うえ — top / above,あがる — to rise / go up,あげる — to raise / give,A
+139,上手,What is the reading and meaning of this kanji?,じょうず — skillful,おくじょう — rooftop,うえ — top / above,て — hand,じょうず — skillful,A
+140,上る,What is the reading and meaning of this kanji?,うえ — top / above,あがる — to rise / go up,あげる — to raise / give,のぼる — to climb / ascend,のぼる — to climb / ascend,D
+141,屋上,What is the reading and meaning of this kanji?,じょうず — skillful,つくえのうえ — on the desk,おくじょう — rooftop,うえ — top / above,おくじょう — rooftop,C
+142,中,What is the reading and meaning of this kanji?,なか — inside / middle,ちゅうがくせい — junior high student,このなか — among these,くるまのなか — inside the car,なか — inside / middle,A
+143,この中,What is the reading and meaning of this kanji?,なか — inside / middle,くるまのなか — inside the car,いちにちじゅう — all day long,このなか — among these,このなか — among these,D
+144,中学生,What is the reading and meaning of this kanji?,がくせい — student,ちゅうがくせい — junior high student,がく — study / learning,だんしがくせい — male student,ちゅうがくせい — junior high student,B
+145,一日中,What is the reading and meaning of this kanji?,いちにちじゅう — all day long,まいにち — every day,いち — one,いちにちめ — the first day,いちにちじゅう — all day long,A
+146,車の中,What is the reading and meaning of this kanji?,なか — inside / middle,くるまのなか — inside the car,このなか — among these,やすいくるま — cheap car,くるまのなか — inside the car,B
+147,下,What is the reading and meaning of this kanji?,した — below / under,へた — unskillful,したより — from below,テーブルのした — under the table,した — below / under,A
+148,テーブルの下,What is the reading and meaning of this kanji?,へた — unskillful,したより — from below,テーブルのした — under the table,した — below / under,テーブルのした — under the table,C
+149,下より,What is the reading and meaning of this kanji?,テーブルのした — under the table,したより — from below,した — below / under,へた — unskillful,したより — from below,B
+150,下手,What is the reading and meaning of this kanji?,したより — from below,て — hand,へた — unskillful,した — below / under,へた — unskillful,C
+151,下がる,What is the reading and meaning of this kanji?,した — below / under,さがる — to go down / decrease,やましたさんのこ — Mr./Ms. Yamashita's child,へた — unskillful,さがる — to go down / decrease,B
+152,右,What is the reading and meaning of this kanji?,みぎて — right hand,みぎあし — right foot/leg,みみ — ear,みぎ — right,みぎ — right,D
+153,右足,What is the reading and meaning of this kanji?,みぎあし — right foot/leg,あし — foot / leg,みぎ — right,みぎて — right hand,みぎあし — right foot/leg,A
+154,左,What is the reading and meaning of this kanji?,ひだり — left,ひだりあし — left foot/leg,ひだりにまがります — to turn left,ひとり — one person / alone,ひだり — left,A
+155,左にまがります,What is the reading and meaning of this kanji?,ひだりにまがります — to turn left,ひだり — left,あめがふります — it rains,ひだりあし — left foot/leg,ひだりにまがります — to turn left,A
+156,外,What is the reading and meaning of this kanji?,そと — outside,がいこく — foreign country,へやのそとへでます — to go outside the room,がいこくじん — foreigner,そと — outside,A
+157,外国,What is the reading and meaning of this kanji?,がいこく — foreign country,きこく — returning to one's country,がいこくじん — foreigner,こくりつ — national (institution),がいこく — foreign country,A
+158,へやの外へ出ます,What is the reading and meaning of this kanji?,でかける — to go out,へやのそとへでます — to go outside the room,でぐち — exit,そと — outside,へやのそとへでます — to go outside the room,B
+159,東,What is the reading and meaning of this kanji?,ひがしにほん — Eastern Japan,ひがしぐち — east exit/entrance,とうきょう — Tokyo,ひがし — east,ひがし — east,D
+160,東京,What is the reading and meaning of this kanji?,とうきょう — Tokyo,ひがしぐち — east exit/entrance,ひがし — east,ひがしにほん — Eastern Japan,とうきょう — Tokyo,A
+161,東口,What is the reading and meaning of this kanji?,ひがしぐち — east exit/entrance,でぐち — exit,ひがし — east,にしぐち — west exit/entrance,ひがしぐち — east exit/entrance,A
+162,東日本,What is the reading and meaning of this kanji?,ひがしにほん — Eastern Japan,にほんじん — Japanese person,にほんごをはなします — I speak Japanese,にほんご — Japanese language,ひがしにほん — Eastern Japan,A
+163,西,What is the reading and meaning of this kanji?,にし — west,にしぐち — west exit/entrance,に — two,しろ — white,にし — west,A
+164,西口,What is the reading and meaning of this kanji?,にしぐち — west exit/entrance,にし — west,でぐち — exit,ひがしぐち — east exit/entrance,にしぐち — west exit/entrance,A
+165,南,What is the reading and meaning of this kanji?,みなみ — south,みなみぐち — south exit/entrance,みみ — ear,みなみアメリカ — South America,みなみ — south,A
+166,南アメリカ,What is the reading and meaning of this kanji?,みなみ — south,みなみアメリカ — South America,みなみぐち — south exit/entrance,みみ — ear,みなみアメリカ — South America,B
+167,南口,What is the reading and meaning of this kanji?,くち — mouth,みなみぐち — south exit/entrance,みなみ — south,でぐち — exit,みなみぐち — south exit/entrance,B
+168,北,What is the reading and meaning of this kanji?,き — return,きた — north,た — many / much,きたヨーロッパ — Northern Europe,きた — north,B
+169,北ヨーロッパ,What is the reading and meaning of this kanji?,プールのみず — pool water,きた — north,きたヨーロッパ — Northern Europe,ふるいパソコン — old computer,きたヨーロッパ — Northern Europe,C
+170,時,What is the reading and meaning of this kanji?,とき — time / when,じかん — time / hour,しちじ — seven o'clock,こどものとき — when I was a child,とき — time / when,A
+171,七時,What is the reading and meaning of this kanji?,しちじ — seven o'clock,しちがつ — July,じかん — time,はちじはん — 8:30,しちじ — seven o'clock,A
+172,時間,What is the reading and meaning of this kanji?,じかん — time / hour,じかん — time,はちじはん — 8:30,じかんがすこしあります — there's a little time,じかん — time / hour,A
+173,子どもの時,What is the reading and meaning of this kanji?,とき — time / when,こ — child,こども — child(ren),こどものとき — when I was a child,こどものとき — when I was a child,D
+174,何時,What is the reading and meaning of this kanji?,なんじですか — What time is it?,なに / なん — what,なんじ — what time,じかん — time / hour,なんじ — what time,C
+175,間,What is the reading and meaning of this kanji?,あいだ — between / interval,いっしゅうかん — one week,じかん — time,やすみのあいだ — during the break,あいだ — between / interval,A
+176,時間,What is the reading and meaning of this kanji?,はちじはん — 8:30,じかん — time / hour,じかん — time,じかんがすこしあります — there's a little time,じかん — time,C
+177,一週間,What is the reading and meaning of this kanji?,しゅう — week,いっしゅうかん — one week,らいしゅう — next week,はっしゅうかん — eight weeks,いっしゅうかん — one week,B
+178,休みの間,What is the reading and meaning of this kanji?,やすみのあいだ — during the break,あいだ — between / interval,やすむ — to rest,いっしゅうかん — one week,やすみのあいだ — during the break,A
+179,分,What is the reading and meaning of this kanji?,はんぶん — half,にふん — two minutes,いちじにふん — 1:02,ふん / ぶん — minute / part,ふん / ぶん — minute / part,D
+180,二分,What is the reading and meaning of this kanji?,にふん — two minutes,に — two,いちじにふん — 1:02,にほん — two (long objects),にふん — two minutes,A
+181,一時二分,What is the reading and meaning of this kanji?,いち — one,にふん — two minutes,いちねん — one year,いちじにふん — 1:02,いちじにふん — 1:02,D
+182,半,What is the reading and meaning of this kanji?,はんにち — half a day,はんとし — half a year,はんぶん — half,はん — half,はん — half,D
+183,八時半,What is the reading and meaning of this kanji?,はちじはん — 8:30,はん — half,じかん — time,はち — eight,はちじはん — 8:30,A
+184,半年,What is the reading and meaning of this kanji?,とし / ねん — year,はんとし — half a year,ことし — this year,はん — half,はんとし — half a year,B
+185,半日,What is the reading and meaning of this kanji?,はんにち — half a day,はんぶん — half,はん — half,まいにち — every day,はんにち — half a day,A
+186,半分,What is the reading and meaning of this kanji?,はんにち — half a day,ふん / ぶん — minute / part,はん — half,はんぶん — half,はんぶん — half,D
+187,今,What is the reading and meaning of this kanji?,いま — now,いまろくじです — it's six o'clock now,ことし — this year,こんしゅう — this week,いま — now,A
+188,今週,What is the reading and meaning of this kanji?,しゅう — week,こんしゅう — this week,まいしゅう — every week,せんしゅう — last week,こんしゅう — this week,B
+189,今日,What is the reading and meaning of this kanji?,こんしゅう — this week,きょう — today,きゅうじつ — holiday / day off,ようか — the 8th / eight days,きょう — today,B
+190,今六時です,What is the reading and meaning of this kanji?,いま — now,ろく — six,なんじですか — What time is it?,いまろくじです — it's six o'clock now,いまろくじです — it's six o'clock now,D
+191,何,What is the reading and meaning of this kanji?,なに / なん — what,なんじ — what time,なんじですか — What time is it?,なにをのみますか — What will you drink?,なに / なん — what,A
+192,何をのみますか,What is the reading and meaning of this kanji?,なんじ — what time,なんじですか — What time is it?,なに / なん — what,なにをのみますか — What will you drink?,なにをのみますか — What will you drink?,D
+193,何時ですか,What is the reading and meaning of this kanji?,いまろくじです — it's six o'clock now,なんじ — what time,なにをのみますか — What will you drink?,なんじですか — What time is it?,なんじですか — What time is it?,D
+194,午,What is the reading and meaning of this kanji?,ご — noon / horse (zodiac),うまどし — Year of the Horse,ごぜんよじ — 4 AM,ごぜん — morning / AM,ご — noon / horse (zodiac),A
+195,午前四時,What is the reading and meaning of this kanji?,ごぜんよじ — 4 AM,なんじ — what time,ごぜん — morning / AM,ご — noon / horse (zodiac),ごぜんよじ — 4 AM,A
+196,午年,What is the reading and meaning of this kanji?,うまどし — Year of the Horse,ことし — this year,はんとし — half a year,とし / ねん — year,うまどし — Year of the Horse,A
+197,前,What is the reading and meaning of this kanji?,まえ — before / in front,ごぜん — morning / AM,なまえをいいます — to say one's name,ごぜんよじ — 4 AM,まえ — before / in front,A
+199,山,What is the reading and meaning of this kanji?,かざん — volcano,やましたさんのこ — Mr./Ms. Yamashita's child,たかいやま — tall mountain,やま — mountain,やま — mountain,D
+200,富士山,What is the reading and meaning of this kanji?,ふじさん — Mt. Fuji,かざん — volcano,やま — mountain,やましたさんのこ — Mr./Ms. Yamashita's child,ふじさん — Mt. Fuji,A
+201,高い山,What is the reading and meaning of this kanji?,たかいやま — tall mountain,やま — mountain,"たかぎ — tall tree / surname ""Takagi""",たかいビル — tall building,たかいやま — tall mountain,A
+202,雨,What is the reading and meaning of this kanji?,あめ — rain,おおあめ — heavy rain,あめがふります — it rains,うてん — rainy weather,あめ — rain,A
+203,雨がふります,What is the reading and meaning of this kanji?,あめ — rain,あめがふります — it rains,おおあめ — heavy rain,うてん — rainy weather,あめがふります — it rains,B
+204,大雨,What is the reading and meaning of this kanji?,おとな — adult,あめ — rain,おおじょし — tall/big woman,おおあめ — heavy rain,おおあめ — heavy rain,D
+205,空,What is the reading and meaning of this kanji?,くうき — air,おおきいそら — big/vast sky,そと — outside,そら — sky,そら — sky,D
+206,空気,What is the reading and meaning of this kanji?,てんき — weather,くうき — air,きもち — feeling,き — spirit / feeling,くうき — air,B
+207,大きい空,What is the reading and meaning of this kanji?,おおきいそら — big/vast sky,おおきいこえ — loud voice,おおきいくち — big mouth,からだがおおきいです — the body is big,おおきいそら — big/vast sky,A
+208,気,What is the reading and meaning of this kanji?,きもち — feeling,てんき — weather,くうき — air,き — spirit / feeling,き — spirit / feeling,D
+209,気もち,What is the reading and meaning of this kanji?,てんき — weather,くうき — air,きもち — feeling,き — spirit / feeling,きもち — feeling,C
+210,天,What is the reading and meaning of this kanji?,てんき — weather,うてん — rainy weather,て — hand,てん — sky / heaven,てん — sky / heaven,D
+211,天気,What is the reading and meaning of this kanji?,てんき — weather,き — spirit / feeling,うてん — rainy weather,てん — sky / heaven,てんき — weather,A
+212,雨天,What is the reading and meaning of this kanji?,てんき — weather,てん — sky / heaven,あめ — rain,うてん — rainy weather,うてん — rainy weather,D
+213,花,What is the reading and meaning of this kanji?,はなみ — flower viewing,はな — flower,あかいはな — red flower,はは — mother (own),はな — flower,B
+214,赤い花,What is the reading and meaning of this kanji?,あかいはな — red flower,はなみ — flower viewing,かいもの — shopping,はな — flower,あかいはな — red flower,A
+215,花見,What is the reading and meaning of this kanji?,けん / み — see / look,はなみ — flower viewing,あかいはな — red flower,はな — flower,はなみ — flower viewing,B
+216,魚,What is the reading and meaning of this kanji?,あかいはな — red flower,さかな — fish,さかなをたべます — I eat fish,きんぎょ — goldfish,さかな — fish,B
+217,金魚,What is the reading and meaning of this kanji?,きんようび — Friday,きん / かね — gold / money,さかな — fish,きんぎょ — goldfish,きんぎょ — goldfish,D
+218,本,What is the reading and meaning of this kanji?,よんほん — four (long objects),ほん — book,にほん — two (long objects),ふるほん — used/old book,ほん — book,B
+219,本を読みます,What is the reading and meaning of this kanji?,にほん — two (long objects),ほんをよみます — I read a book,にほんごをはなします — I speak Japanese,ほん — book,ほんをよみます — I read a book,B
+220,本だな,What is the reading and meaning of this kanji?,ほん — book,にほん — two (long objects),ふるほん — used/old book,ほんだな — bookshelf,ほんだな — bookshelf,D
+221,語,What is the reading and meaning of this kanji?,にほんご — Japanese language,スペインご — Spanish language,げんご — language,ご — language / word,ご — language / word,D
+222,二本,What is the reading and meaning of this kanji?,にふん — two minutes,にほんご — Japanese language,ほん — book,にほん — two (long objects),にほん — two (long objects),D
+223,日本語,What is the reading and meaning of this kanji?,にほんじん — Japanese person,ひがしにほん — Eastern Japan,にほんごをはなします — I speak Japanese,にほんご — Japanese language,にほんご — Japanese language,D
+224,スペイン語,What is the reading and meaning of this kanji?,げんご — language,スペインご — Spanish language,ご — language / word,にほんご — Japanese language,スペインご — Spanish language,B
+225,国,What is the reading and meaning of this kanji?,きこく — returning to one's country,くに — country,こくりつ — national (institution),おなじくに — the same country,くに — country,B
+226,外国人,What is the reading and meaning of this kanji?,こくりつ — national (institution),きこく — returning to one's country,がいこくじん — foreigner,がいこく — foreign country,がいこくじん — foreigner,C
+227,国へかえります,What is the reading and meaning of this kanji?,くに — country,おなじくに — the same country,くにへかえります — to return to one's country,こくりつ — national (institution),くにへかえります — to return to one's country,C
+228,多,What is the reading and meaning of this kanji?,ただい — great / immense,た — many / much,おおいひと — many people,た — many,た — many / much,B
+229,多い人,What is the reading and meaning of this kanji?,おおいひと — many people,くるまがおおい — there are many cars,ひとり — one person / alone,ひと — person,おおいひと — many people,A
+230,午前,What is the reading and meaning of this kanji?,まえ — before / in front,ご — noon / horse (zodiac),ごぜんよじ — 4 AM,ごぜん — morning / AM,ごぜん — morning / AM,D
+231,同,What is the reading and meaning of this kanji?,どう — same,どく — read,どようび — Saturday,おなじくに — the same country,どう — same,A
+232,同じ国,What is the reading and meaning of this kanji?,おなじくに — the same country,くに — country,きこく — returning to one's country,がいこく — foreign country,おなじくに — the same country,A
+233,白,What is the reading and meaning of this kanji?,あし — foot / leg,した — below / under,しろいシャツ — white shirt,しろ — white,しろ — white,D
+234,白いシャツ,What is the reading and meaning of this kanji?,したしいもの — familiar thing,しろ — white,しろいシャツ — white shirt,おもしろいはなし — interesting story,しろいシャツ — white shirt,C
+235,物,What is the reading and meaning of this kanji?,のみもの — drink / beverage,たべもの — food,もの — thing,かいもの — shopping,もの — thing,C
+236,親しい物,What is the reading and meaning of this kanji?,かいもの — shopping,たべもの — food,したしいもの — familiar thing,もの — thing,したしいもの — familiar thing,C
+237,くだ物,What is the reading and meaning of this kanji?,もの — thing,のみもの — drink / beverage,たべもの — food,くだもの — fruit (果物),くだもの — fruit (果物),D
+238,大,What is the reading and meaning of this kanji?,だいがく — university,たいしかん — embassy,だい — big / large,ただい — great / immense,だい — big / large,C
+239,大学,What is the reading and meaning of this kanji?,がく — study / learning,ただい — great / immense,だい — big / large,だいがく — university,だいがく — university,D
+240,大きい声,What is the reading and meaning of this kanji?,おおきいそら — big/vast sky,からだがおおきいです — the body is big,おおきいくち — big mouth,おおきいこえ — loud voice,おおきいこえ — loud voice,D
+241,大人,What is the reading and meaning of this kanji?,おとこのひと — man,おおいひと — many people,おとな — adult,ひと — person,おとな — adult,C
+242,大使館,What is the reading and meaning of this kanji?,たいしかん — embassy,だい — big / large,ただい — great / immense,だいがく — university,たいしかん — embassy,A
+243,小,What is the reading and meaning of this kanji?,しょう — small,ちいさいえき — small station,ちいさいからだ — small body,しょうがっこう — elementary school,しょう — small,A
+244,小学校,What is the reading and meaning of this kanji?,こうこう — high school,しょうがっこう — elementary school,しょう — small,がっこう — school,しょうがっこう — elementary school,B
+245,小さい駅,What is the reading and meaning of this kanji?,えきのかいさつぐち — station ticket gate,しょう — small,ちいさいえき — small station,ちいさいからだ — small body,ちいさいえき — small station,C
+246,多,What is the reading and meaning of this kanji?,た — many / much,た — many,ただい — great / immense,おおいひと — many people,た — many,B
+247,車が多い,What is the reading and meaning of this kanji?,やすいくるま — cheap car,おおいひと — many people,くるまがおおい — there are many cars,くるまのなか — inside the car,くるまがおおい — there are many cars,C
+248,多大,What is the reading and meaning of this kanji?,た — many / much,だい — big / large,た — many,ただい — great / immense,ただい — great / immense,D
+249,少,What is the reading and meaning of this kanji?,しょう — small,ひとがすくない — there are few people,じかんがすこしあります — there's a little time,しょう — few / little,しょう — few / little,D
+250,人が少ない,What is the reading and meaning of this kanji?,ひとがすくない — there are few people,ひと — person,ひとがおおい — many people,おとな — adult,ひとがすくない — there are few people,A
+251,時間が少しあります,What is the reading and meaning of this kanji?,じかんがすこしあります — there's a little time,じかん — time / hour,なんじですか — What time is it?,じかん — time,じかんがすこしあります — there's a little time,A
+252,親,What is the reading and meaning of this kanji?,おや — parent,しんせつなひと — kind person,やま — mountain,したしいもの — familiar thing,おや — parent,A
+253,親切な人,What is the reading and meaning of this kanji?,ひとり — one person / alone,ひと — person,しんせつなひと — kind person,おおいひと — many people,しんせつなひと — kind person,C
+254,古,What is the reading and meaning of this kanji?,ふるいパソコン — old computer,こ / ふる — old,ふるさと — hometown,ふるほん — used/old book,こ / ふる — old,B
+255,古いパソコン,What is the reading and meaning of this kanji?,こ / ふる — old,ふるさと — hometown,ふるほん — used/old book,ふるいパソコン — old computer,ふるいパソコン — old computer,D
+256,古本,What is the reading and meaning of this kanji?,こ / ふる — old,ふるほん — used/old book,にほん — two (long objects),ほん — book,ふるほん — used/old book,B
+257,古里,What is the reading and meaning of this kanji?,ふるさと — hometown,ふるほん — used/old book,こ / ふる — old,ふるいパソコン — old computer,ふるさと — hometown,A
+258,高校,What is the reading and meaning of this kanji?,こう / たか — high / tall,こうこう — high school,こうちょう — school principal,こうこうせい — high school student,こうこう — high school,B
+259,高,What is the reading and meaning of this kanji?,こう / たか — high / tall,こうこう — high school,たかいやま — tall mountain,"たかぎ — tall tree / surname ""Takagi""",こう / たか — high / tall,A
+260,高いビル,What is the reading and meaning of this kanji?,たかいやま — tall mountain,"たかぎ — tall tree / surname ""Takagi""",たかいビル — tall building,こう / たか — high / tall,たかいビル — tall building,C
+261,高校生,What is the reading and meaning of this kanji?,こうこう — high school,こうちょう — school principal,せい — life / birth / student,こうこうせい — high school student,こうこうせい — high school student,D
+262,安,What is the reading and meaning of this kanji?,へいあん — peace,あんぜん — safety,あん — cheap / peace,やすいくるま — cheap car,あん — cheap / peace,C
+263,安い車,What is the reading and meaning of this kanji?,へいあん — peace,やすいくるま — cheap car,くるまのなか — inside the car,くるまがおおい — there are many cars,やすいくるま — cheap car,B
+264,安全,What is the reading and meaning of this kanji?,あん — cheap / peace,へいあん — peace,やすいくるま — cheap car,あんぜん — safety,あんぜん — safety,D
+265,平安,What is the reading and meaning of this kanji?,やすいくるま — cheap car,へいあん — peace,あんぜん — safety,あん — cheap / peace,へいあん — peace,B
+266,長,What is the reading and meaning of this kanji?,あしがながいです — the legs are long,ながい — long,こうちょう — school principal,ちょう — long / chief,ちょう — long / chief,D
+267,校長,What is the reading and meaning of this kanji?,こうこう — high school,こうちょう — school principal,がっこう — school,ちょう — long / chief,こうちょう — school principal,B
+268,長い,What is the reading and meaning of this kanji?,こうちょう — school principal,ちょう — long / chief,あしがながいです — the legs are long,ながい — long,ながい — long,D
+269,近,What is the reading and meaning of this kanji?,ちかいみせ — nearby store,きん / かね — gold / money,ちか — near,きん / ちか — near,きん / ちか — near,D
+270,近い店,What is the reading and meaning of this kanji?,ちかいみせ — nearby store,きん / ちか — near,かいもの — shopping,ちか — near,ちかいみせ — nearby store,A
+271,近,What is the reading and meaning of this kanji?,ちかいみせ — nearby store,つち — soil / earth,ちか — near,きん / ちか — near,ちか — near,C
+272,女子,What is the reading and meaning of this kanji?,じょしから — from the girls,おおじょし — tall/big woman,じょし — girl,じょし — girl / female,じょし — girl,C
+273,大女子,What is the reading and meaning of this kanji?,じょし — girl,じょし — girl / female,おおじょし — tall/big woman,じょしから — from the girls,おおじょし — tall/big woman,C
+274,女子から,What is the reading and meaning of this kanji?,じょし — girl / female,おおじょし — tall/big woman,じょし — girl,じょしから — from the girls,じょしから — from the girls,D
+275,行,What is the reading and meaning of this kanji?,あるいていく — to go on foot,ぎんこう — bank,こう / い / ぎょう — go / line,さきにいきます — I'll go ahead,こう / い / ぎょう — go / line,C
+276,銀行,What is the reading and meaning of this kanji?,こう / い / ぎょう — go / line,さきにいきます — I'll go ahead,ぎんこう — bank,あるいていく — to go on foot,ぎんこう — bank,C
+277,会社へ行きます,What is the reading and meaning of this kanji?,さきにいきます — I'll go ahead,あるいていく — to go on foot,こう / い / ぎょう — go / line,かいしゃへいきます — I go to the company,かいしゃへいきます — I go to the company,D
+278,歩いて行く,What is the reading and meaning of this kanji?,さきにいきます — I'll go ahead,かいしゃへいきます — I go to the company,こう / い / ぎょう — go / line,あるいていく — to go on foot,あるいていく — to go on foot,D
+279,来,What is the reading and meaning of this kanji?,らい / く — come,きます — to come,らいしゅう — next week,らいねん — next year,らい / く — come,A
+280,来週,What is the reading and meaning of this kanji?,まいしゅう — every week,しゅう — week,こんしゅう — this week,らいしゅう — next week,らいしゅう — next week,D
+281,来ます,What is the reading and meaning of this kanji?,らいねん — next year,きます — to come,らいしゅう — next week,らい / く — come,きます — to come,B
+282,帰,What is the reading and meaning of this kanji?,きこく — returning to one's country,き — return,き — spirit / feeling,き — tree,き — return,B
+283,帰国,What is the reading and meaning of this kanji?,きこく — returning to one's country,こくりつ — national (institution),がいこく — foreign country,き — return,きこく — returning to one's country,A
+284,食,What is the reading and meaning of this kanji?,たべもの — food,さかなをたべます — I eat fish,しょくじをします — to have a meal,しょく — eat / food,しょく — eat / food,D
+285,食事をします,What is the reading and meaning of this kanji?,しょくじをします — to have a meal,しょく — eat / food,さかなをたべます — I eat fish,たべもの — food,しょくじをします — to have a meal,A
+286,魚を食べます,What is the reading and meaning of this kanji?,さかなをたべます — I eat fish,しょくじをします — to have a meal,さかな — fish,たべもの — food,さかなをたべます — I eat fish,A
+287,食べ物,What is the reading and meaning of this kanji?,かいもの — shopping,たべもの — food,したしいもの — familiar thing,もの — thing,たべもの — food,B
+288,飲,What is the reading and meaning of this kanji?,のみもの — drink / beverage,げん / い — say / word,のみます — to drink,いん / の — drink,いん / の — drink,D
+289,飲み物,What is the reading and meaning of this kanji?,のみます — to drink,のみもの — drink / beverage,もの — thing,くだもの — fruit (果物),のみもの — drink / beverage,B
+290,飲みます,What is the reading and meaning of this kanji?,のみもの — drink / beverage,いん / の — drink,なにをのみますか — What will you drink?,のみます — to drink,のみます — to drink,D
+291,買,What is the reading and meaning of this kanji?,ばい — buy,いち — one,かいもの — shopping,かばんをかいます — I buy a bag,ばい — buy,A
+292,かばんを買います,What is the reading and meaning of this kanji?,かいもの — shopping,てをあらいます — to wash one's hands,ばい — buy,かばんをかいます — I buy a bag,かばんをかいます — I buy a bag,D
+293,買い物,What is the reading and meaning of this kanji?,かいもの — shopping,したしいもの — familiar thing,たべもの — food,もの — thing,かいもの — shopping,A
+294,六,What is the reading and meaning of this kanji?,ろくねん — six years,ろく — six,ろくさい — six years old,いまろくじです — it's six o'clock now,ろく — six,B
+295,六才,What is the reading and meaning of this kanji?,ろくねん — six years,ろくさい — six years old,ろく — six,いまろくじです — it's six o'clock now,ろくさい — six years old,B
+296,国立,What is the reading and meaning of this kanji?,くに — country,がいこく — foreign country,きこく — returning to one's country,こくりつ — national (institution),こくりつ — national (institution),D
+297,休,What is the reading and meaning of this kanji?,きゅうじつ — holiday / day off,きゅう — rest,やすみのあいだ — during the break,やすむ — to rest,きゅう — rest,B
+298,休む,What is the reading and meaning of this kanji?,きゅうじつ — holiday / day off,やすむ — to rest,きゅう — rest,やすみのあいだ — during the break,やすむ — to rest,B
+299,休日,What is the reading and meaning of this kanji?,きゅう — rest,きゅうじつ — holiday / day off,ようか — the 8th / eight days,きょう — today,きゅうじつ — holiday / day off,B
+300,言,What is the reading and meaning of this kanji?,けん / み — see / look,げん / い — say / word,げんご — language,なまえをいいます — to say one's name,げん / い — say / word,B
+301,名前を言います,What is the reading and meaning of this kanji?,まえ — before / in front,げん / い — say / word,げんご — language,なまえをいいます — to say one's name,なまえをいいます — to say one's name,D
+302,言語,What is the reading and meaning of this kanji?,げん / い — say / word,にほんご — Japanese language,げんご — language,ご — language / word,げんご — language,C
+303,電話,What is the reading and meaning of this kanji?,せん — thousand,でんわ — telephone,おもしろいはなし — interesting story,にほんごをはなします — I speak Japanese,でんわ — telephone,B
+304,日本語を話します,What is the reading and meaning of this kanji?,にほんでうまれました — I was born in Japan,にほんじん — Japanese person,にほんご — Japanese language,にほんごをはなします — I speak Japanese,にほんごをはなします — I speak Japanese,D
+305,おもしろい話,What is the reading and meaning of this kanji?,にほんごをはなします — I speak Japanese,でんわ — telephone,あかいはな — red flower,おもしろいはなし — interesting story,おもしろいはなし — interesting story,D
+306,書,What is the reading and meaning of this kanji?,てがみをかきます — I write a letter,きょうかしょ — textbook,どくしょ — reading (books),しょ — write / document,しょ — write / document,D
+307,教科書,What is the reading and meaning of this kanji?,しょ — write / document,きょうかしょ — textbook,てがみをかきます — I write a letter,どくしょ — reading (books),きょうかしょ — textbook,B
+308,手紙を書きます,What is the reading and meaning of this kanji?,てをあけます — to free up one's hands,てをあらいます — to wash one's hands,てがみ — letter (手紙),てがみをかきます — I write a letter,てがみをかきます — I write a letter,D
+309,読,What is the reading and meaning of this kanji?,ほんをよみます — I read a book,どくしょ — reading (books),がく — study / learning,どく — read,どく — read,D
+310,読書,What is the reading and meaning of this kanji?,どくしょ — reading (books),しょ — write / document,どく — read,きょうかしょ — textbook,どくしょ — reading (books),A
+311,本を読みます,What is the reading and meaning of this kanji?,にほんごをはなします — I speak Japanese,ほんをよみます — I read a book,ほん — book,にほん — two (long objects),ほんをよみます — I read a book,B
+312,聞,What is the reading and meaning of this kanji?,げん / い — say / word,ぶん / き — hear / listen / ask,ラジオをききます — I listen to the radio,しんぶん — newspaper,ぶん / き — hear / listen / ask,B
+313,新聞,What is the reading and meaning of this kanji?,ラジオをききます — I listen to the radio,ぶん / き — hear / listen / ask,しんぶん — newspaper,はんぶん — half,しんぶん — newspaper,C
+314,ラジオを聞きます,What is the reading and meaning of this kanji?,しんぶん — newspaper,てがみをかきます — I write a letter,ぶん / き — hear / listen / ask,ラジオをききます — I listen to the radio,ラジオをききます — I listen to the radio,D
+315,見,What is the reading and meaning of this kanji?,けん / み — see / look,つきをみる — to look at the moon,けんがく — study tour / field trip,はなみ — flower viewing,けん / み — see / look,A
+316,見学,What is the reading and meaning of this kanji?,けん / み — see / look,けんがく — study tour / field trip,がく — study / learning,だいがく — university,けんがく — study tour / field trip,B
+317,映画を見ます,What is the reading and meaning of this kanji?,つきをみる — to look at the moon,はなみ — flower viewing,えいがをみます — I watch a movie,けん / み — see / look,えいがをみます — I watch a movie,C
+318,入,What is the reading and meaning of this kanji?,いれる — to put in / insert,はいる — to enter,にゅう — enter,いりぐち — entrance,にゅう — enter,C
+319,入る,What is the reading and meaning of this kanji?,にゅう — enter,いりぐち — entrance,いれる — to put in / insert,はいる — to enter,はいる — to enter,D
+320,入れる,What is the reading and meaning of this kanji?,いれる — to put in / insert,いりぐち — entrance,にゅう — enter,はいる — to enter,いれる — to put in / insert,A
+321,入口,What is the reading and meaning of this kanji?,でぐち — exit,くち — mouth,にしぐち — west exit/entrance,いりぐち — entrance,いりぐち — entrance,D
+322,出,What is the reading and meaning of this kanji?,でぐち — exit,でかける — to go out,しゅつ — exit / go out,へやのそとへでます — to go outside the room,しゅつ — exit / go out,C
+323,出かける,What is the reading and meaning of this kanji?,でぐち — exit,しゅつ — exit / go out,へやのそとへでます — to go outside the room,でかける — to go out,でかける — to go out,D
