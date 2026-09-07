@@ -280,7 +280,10 @@ def render_html(questions, coverage_date):
 
 def send_email(html_body, coverage_date):
     gmail_address = os.environ["GMAIL_ADDRESS"]
-    gmail_app_password = os.environ["GMAIL_APP_PASSWORD"]
+    # Google displays app passwords with spaces for readability, but the real
+    # credential is the 16 characters without them -- strip defensively in
+    # case the secret was stored with spaces intact.
+    gmail_app_password = os.environ["GMAIL_APP_PASSWORD"].replace(" ", "")
     recipient = os.environ.get("RECIPIENT_EMAIL", gmail_address)
 
     msg = MIMEMultipart("alternative")
