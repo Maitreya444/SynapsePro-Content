@@ -42,7 +42,7 @@ from google.genai import types
 
 # ---------------- CONFIG ----------------
 COVERAGE_DIR = "weekly-tests"
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.6-flash"
 
 # Weekly question count scales with how much you actually reviewed,
 # clamped to a sane range rather than a fixed number.
