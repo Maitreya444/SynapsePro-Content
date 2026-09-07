@@ -9,6 +9,9 @@ on:
 jobs:
   send-weekly-test:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: jlpt-weekly-test
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -19,11 +22,11 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install anthropic
+        run: pip install google-genai
 
       - name: Generate and send test
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}

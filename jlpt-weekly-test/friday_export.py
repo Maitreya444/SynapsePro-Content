@@ -33,7 +33,7 @@ from datetime import date
 
 # ---------------- CONFIG ----------------
 ANKICONNECT_URL = "http://localhost:8765"
-DECK_PREFIX = os.environ.get("ANKI_DECK_PREFIX", "N5")
+DECK_PREFIX = os.environ.get("ANKI_DECK_PREFIX", "JLPT N5")
 RATED_DAYS = int(os.environ.get("RATED_DAYS", "6"))
 OUTPUT_DIR = "weekly-tests"
 GIT_AUTO_PUSH = True  # set False if you want to review the file before pushing
@@ -58,7 +58,9 @@ def anki_request(action, **params):
 
 
 def get_reviewed_cards():
-    query = f"deck:{DECK_PREFIX}* rated:{RATED_DAYS}"
+    # Quote the deck name -- Anki's search syntax splits on whitespace, so an
+    # unquoted deck prefix containing a space (e.g. "JLPT N5") silently breaks.
+    query = f'deck:"{DECK_PREFIX}*" rated:{RATED_DAYS}'
     card_ids = anki_request("findCards", query=query)
     if not card_ids:
         sys.exit(f"No cards found for query '{query}'. Nothing to export.")
