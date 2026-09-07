@@ -121,8 +121,11 @@ test lands in your inbox. No action needed on your end.
 - `RATED_DAYS` in `friday_export.py` controls how far back AnkiConnect
   looks. Default `6` assumes you study Sun–Fri; adjust to match your
   actual weekday pattern.
-- `DECK_PREFIX` assumes your decks are named starting with `N5` (e.g.
-  `N5::Grammar`, `N5::Kanji`). Change if your naming differs.
+- `DECK_PREFIX` defaults to `JLPT N5` (matching decks like `JLPT N5::Grammer
+  Patterns`, `JLPT N5::Kanji Study`). Change via `ANKI_DECK_PREFIX` if your
+  naming differs — and if it contains a space, note the query is quoted
+  (`deck:"PREFIX*"`) precisely because Anki's search syntax splits on
+  whitespace otherwise.
 
 ## Known limitations
 
