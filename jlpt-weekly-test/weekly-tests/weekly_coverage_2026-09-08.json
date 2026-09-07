@@ -1,0 +1,843 @@
+{
+  "generated_on": "2026-09-08",
+  "deck_prefix": "JLPT N5",
+  "rated_days": 30,
+  "topic_count": 63,
+  "topics": [
+    {
+      "tags": [],
+      "fields": {
+        "Question": "Question",
+        "Answer": "Answer",
+        "Marathi": "Marathi",
+        "Example": "Example",
+        "Mnemonic": "Mnemonic",
+        "AI Notes": "AI Notes",
+        "Reference": "Reference"
+      },
+      "modelName": "JLPT N5 Grammer"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "Question": "What does 「Nです」mean?",
+        "Answer": "Polite copula: states &quot;I am / this is [noun]&quot; — identifies or describes something with a noun.",
+        "Marathi": "मी विद्यार्थी आहे. — I am a student. (Marathi&#x27;s sentence-final copula &quot;आहे&quot; mirrors Japanese&#x27;s<br>sentence-final &quot;です&quot; — both languages put the &quot;to be&quot; verb at the very end.)",
+        "Example": "Easy: わたしは学生です。 — I am a student. (Why: the plain N+です pattern with no modifiers, the simplest form.)<br>Medium: わたしは日本語(にほんご)の学生です。 — I am a student of Japanese. (Why: adds a modifying phrase before the noun via の, showing です still just attaches to the final noun.)<br>Hard: わたしは今年(ことし)から日本語学校(にほんごがっこう)の学生です。 — Since this year, I am a student at a Japanese language school. (Why: embeds a time phrase and a longer noun phrase before です, testing recognition of the pattern under heavier modification.)",
+        "Mnemonic": "です sounds like a soft stamp — &quot;desu!&quot; — placed at the very end of a sentence to seal the<br>identification, like a rubber stamp confirming &quot;yes, this is [noun].&quot;",
+        "AI Notes": "Common mistake: beginners try to conjugate です like a regular verb, or drop it after い-adjectives<br>thinking it&#x27;s not needed (大きいです is correct — です still appears for politeness even though the<br>adjective itself carries the negation/tense later, e.g. 大きくないです). Remember です itself carries<br>no meaning beyond politeness — the identification comes purely from word order (X は Y です).",
+        "Reference": "Topics.md G001"
+      },
+      "modelName": "JLPT N5 Grammer"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "Question": "What does 「Nではありません」mean?",
+        "Answer": "Polite negative copula: states &quot;I am not / this is not [noun]&quot;.",
+        "Marathi": "मी शिक्षक नाही. — I am not a teacher. (Marathi negates with &quot;नाही&quot; after the noun, paralleling how<br>Japanese negates with &quot;ではありません&quot; after N — both put the negation marker at the very end.)",
+        "Example": "Easy: わたしは先生ではありません。 — I am not a teacher. (Why: the basic negative copula attached directly to a noun.)<br>Medium: これは新(あたら)しい本ではありません。 — This is not a new book. (Why: shows ではありません after a noun modified by an adjective.)<br>Hard: 田中(たなか)さんは今日(きょう)、学校(がっこう)の先生ではありません。 — Mr. Tanaka is not a school teacher today. (Why: combines a time expression and a modified noun phrase before the negative copula.)",
+        "Mnemonic": "Break it down: では (as for that) + ありません (there isn&#x27;t/doesn&#x27;t exist) — literally &quot;as for that,<br>it doesn&#x27;t exist [as that].&quot; では is です&#x27;s negative doorway; ありません slams it shut.",
+        "AI Notes": "Common mistake: writing じゃありません and ではありません as if they&#x27;re different in meaning — they<br>aren&#x27;t; じゃ is just the casual-but-still-polite contraction of では, both equally correct in polite<br>speech. Also watch word order: the negation attaches to the whole です, not to the noun itself, so<br>never insert ない directly onto the noun.",
+        "Reference": "Topics.md G002"
+      },
+      "modelName": "JLPT N5 Grammer"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "Question": "What does 「〜ことができます」mean?",
+        "Answer": "To be able to do something / can do (expressing ability or potential).",
+        "Marathi": "मला जपानी बोलता येते — I can speak Japanese. Japanese dictionary form + ことができます and Marathi verb + ता येते share a beautiful parallel where the action is nominalized before expressing ability.",
+        "Example": "Easy: 私は漢字を読むことができます (わたしは かんじを よむ ことができます) — I can read kanji. (Why: The dictionary form 読む is nominalized by ことができます to show reading ability.)<br>Medium: ここでカードで払うことができます (ここで カードで はらう ことができます) — You can pay by card here. (Why: Expresses situational possibility of payment using the verb 払う.)<br>Hard: 私は日本語で簡単な手紙を書くことができます (わたしは にほんごで かんたんな てがみを かく ことができます) — I can write a simple letter in Japanese. (Why: Combines multiple modifiers like &quot;in Japanese&quot; and &quot;simple letter&quot; with the dictionary form verb &quot;書く&quot; to express capability.)",
+        "Mnemonic": "こと turns a verb into &quot;the act of [verb]-ing&quot; (like English &quot;-ing&quot; as a noun), and できます means<br>&quot;is possible&quot; — so literally &quot;the act of doing X is possible.&quot; Picture turning the verb into a<br>noun-shaped object before handing it to できます.",
+        "AI Notes": "Common mistake: attaching ことができます to the ます-form instead of the plain dictionary form (❌<br>食べますことができます, ✅ 食べることができます). Also don&#x27;t confuse this with the shorter potential-verb<br>form (食べられます) — N5 typically expects ことができます first; the direct potential form is more N4.",
+        "Reference": "Analysis checklist #55 (jlpt_n5_flashcard_checklist.md)"
+      },
+      "modelName": "JLPT N5 Grammer"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "Question": "What does 「い-adjective (affirmative)」mean?",
+        "Answer": "Expresses a present or future affirmative state or quality using an adjective ending in &quot;い&quot; in its polite form.",
+        "Marathi": "हा चहा खूप गरम आहे। — This tea is very hot. Both languages share the SOV sentence structure where the adjective precedes the closing polite state marker (です / आहे).",
+        "Example": "Easy: 今日は寒いです。(きょうはさむいです) — Today is cold. (Why: The &quot;い&quot; adjective 寒い ends in &quot;いです&quot; for polite present affirmation.)<br>Medium: この本はとても面白いです。(このほんはとてもおもしろいです) — This book is very interesting. (Why: The adverb とても modifies the &quot;い&quot; adjective to add emphasis.)<br>Hard: わたしの部屋は狭いですが、きれいです。(わたしのへやはせまいですが、きれいです) — My room is small, but it is clean. (Why: Links an &quot;い&quot; adjective clause using が to show contrast before a &quot;な&quot; adjective predicate.)",
+        "Mnemonic": "い-adjectives already end in い — no extra copula needed to &quot;make&quot; them an adjective, just add です<br>for politeness (寒い → 寒いです).",
+        "AI Notes": "Common mistake: adding な after an い-adjective when modifying a noun (❌ 寒いな日) — な is only for<br>な-adjectives; い-adjectives attach directly to the noun (寒い日).",
+        "Reference": "Analysis checklist #36 (jlpt_n5_flashcard_checklist.md)"
+      },
+      "modelName": "JLPT N5 Grammer"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "Question": "What does 「い-adjective negative (~くないです)」mean?",
+        "Answer": "Expresses a present or future negative state or quality for an &quot;い&quot; adjective by dropping &quot;い&quot; and adding &quot;くないです&quot;.",
+        "Marathi": "हा रस्ता चांगला नाही। — This road is not good. Both languages show a parallel where the affirmative adjective is modified at its end to express negation before the final verb/copula.",
+        "Example": "Easy: 今日は寒くないです。(きょうはさむくないです) — Today is not cold. (Why: The &quot;い&quot; of 寒い is dropped and replaced with くないです to conjugate to negative.)<br>Medium: その辞書はあまり良くないです。(そのじしょはあまりよくないです) — That dictionary is not very good. (Why: The irregular adjective いい changes to よ before adding くないです, modified by the negative-favouring adverb あまり.)<br>Hard: このアパートの家賃は安くないですが、便利です。(このあぱーとのやちんはやすくないですが、べんりです) — The rent of this apartment is not cheap, but it is convenient. (Why: Shows a negative &quot;い&quot; adjective contrasting clause linked to a positive &quot;な&quot; adjective.)",
+        "Mnemonic": "Drop the final い, add くない — &quot;i&quot; leaves, &quot;ku-nai&quot; arrives.",
+        "AI Notes": "Common mistake: forgetting いい (good) is irregular — its negative is よくない, not いくない. Memorize<br>いい/よい as the one standout exception among い-adjectives.",
+        "Reference": "Analysis checklist #37 (jlpt_n5_flashcard_checklist.md)"
+      },
+      "modelName": "JLPT N5 Grammer"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "No",
+        "Theme": "Theme",
+        "Japanese": "Japanese",
+        "English": "English",
+        "Marathi": "Marathi",
+        "GrammarPoints": "GrammarPoints"
+      },
+      "modelName": "N5 Japanese Comprehension "
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "1",
+        "Theme": "Self-Introduction",
+        "Japanese": "はじめまして。私はマリアです。インドから来ました。今、大学生です。日本語を勉強しています。日本語は少し難しいですが、毎日頑張って勉強します。私は本を読むのが好きです。どうぞよろしくお願いします。",
+        "English": "Nice to meet you. I am Maria. I came from India. Now, I am a university student. I am studying Japanese. Japanese is a little difficult, but I study hard every day. I like reading books. Please treat me well.",
+        "Marathi": "नमस्कार. मी मारिया आहे. मी भारतातून आले आहे. आता, मी विद्यापीठाची विद्यार्थिनी आहे. मी जपानी भाषा शिकत आहे. जपानी भाषा थोडी कठीण आहे, पण मी दररोज मेहनतीने अभ्यास करते. मला पुस्तक वाचायला आवडते. कृपया माझी ओळख लक्षात ठेवा.",
+        "GrammarPoints": "は (topic marker); です (copula); から (from/origin); ~ています (state/progressive); い-adjective affirmative; が (but, connecting); の (nominalizer); な-adjective affirmative"
+      },
+      "modelName": "N5 Japanese Comprehension "
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "Sr No",
+        "Category": "Category",
+        "Japanese": "Japanese",
+        "English": "English",
+        "Marathi": "Marathi",
+        "Example": "Example"
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "1",
+        "Category": "Calendar - Days",
+        "Japanese": "おととい",
+        "English": "the day before yesterday",
+        "Marathi": "परवा (गेलेला)",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "2",
+        "Category": "Calendar - Days",
+        "Japanese": "きのう",
+        "English": "yesterday",
+        "Marathi": "काल",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "3",
+        "Category": "Calendar - Days",
+        "Japanese": "きょう",
+        "English": "today",
+        "Marathi": "आज",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "4",
+        "Category": "Calendar - Days",
+        "Japanese": "あした",
+        "English": "tomorrow",
+        "Marathi": "उद्या",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "5",
+        "Category": "Calendar - Days",
+        "Japanese": "あさって",
+        "English": "the day after tomorrow",
+        "Marathi": "परवा (येणारा)",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "6",
+        "Category": "Calendar - Days",
+        "Japanese": "まいにち",
+        "English": "every day",
+        "Marathi": "दररोज",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "7",
+        "Category": "Calendar - Weeks",
+        "Japanese": "せんしゅう",
+        "English": "last week",
+        "Marathi": "मागचा आठवडा",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "8",
+        "Category": "Calendar - Weeks",
+        "Japanese": "こんしゅう",
+        "English": "this week",
+        "Marathi": "हा आठवडा",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "9",
+        "Category": "Calendar - Weeks",
+        "Japanese": "らいしゅう",
+        "English": "next week",
+        "Marathi": "पुढचा आठवडा",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "10",
+        "Category": "Calendar - Weeks",
+        "Japanese": "まいしゅう",
+        "English": "every week",
+        "Marathi": "दर आठवड्याला",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "11",
+        "Category": "Calendar - Months",
+        "Japanese": "せんげつ",
+        "English": "last month",
+        "Marathi": "मागचा महिना",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "12",
+        "Category": "Calendar - Months",
+        "Japanese": "こんげつ",
+        "English": "this month",
+        "Marathi": "हा महिना",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "13",
+        "Category": "Calendar - Months",
+        "Japanese": "らいげつ",
+        "English": "next month",
+        "Marathi": "पुढचा महिना",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "14",
+        "Category": "Calendar - Months",
+        "Japanese": "まいつき",
+        "English": "every month",
+        "Marathi": "दर महिन्याला",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "15",
+        "Category": "Calendar - Years",
+        "Japanese": "おととし",
+        "English": "two years ago",
+        "Marathi": "दोन वर्षांपूर्वी",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "16",
+        "Category": "Calendar - Years",
+        "Japanese": "きょねん",
+        "English": "last year",
+        "Marathi": "मागचे वर्ष",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "SrNo": "17",
+        "Category": "Calendar - Years",
+        "Japanese": "ことし",
+        "English": "this year",
+        "Marathi": "हे वर्ष",
+        "Example": ""
+      },
+      "modelName": "N5-Vocabulary"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "No",
+        "Kanji": "Kanji",
+        "Question": "Question",
+        "OptionA": "OptionA",
+        "OptionB": "OptionB",
+        "OptionC": "OptionC",
+        "OptionD": "OptionD",
+        "CorrectAnswer": "CorrectAnswer",
+        "CorrectLetter": "CorrectLetter"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "1",
+        "Kanji": "月",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "しがつ — April",
+        "OptionB": "つき — moon / month",
+        "OptionC": "はちがつ — August",
+        "OptionD": "にがつ — February",
+        "CorrectAnswer": "つき — moon / month",
+        "CorrectLetter": "B"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "2",
+        "Kanji": "月ようび",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "いっかげつ — one month",
+        "OptionB": "つき — moon / month",
+        "OptionC": "にがつ — February",
+        "OptionD": "げつようび — Monday",
+        "CorrectAnswer": "げつようび — Monday",
+        "CorrectLetter": "D"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "3",
+        "Kanji": "四月",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "しちがつ — July",
+        "OptionB": "しがつ — April",
+        "OptionC": "はちがつ — August",
+        "OptionD": "にがつ — February",
+        "CorrectAnswer": "しがつ — April",
+        "CorrectLetter": "B"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "4",
+        "Kanji": "月を見る",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "つきをみる — to look at the moon",
+        "OptionB": "つき — moon / month",
+        "OptionC": "にがつ — February",
+        "OptionD": "えいがをみます — I watch a movie",
+        "CorrectAnswer": "つきをみる — to look at the moon",
+        "CorrectLetter": "A"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "5",
+        "Kanji": "火",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "かようび — Tuesday",
+        "OptionB": "ひはあぶない — fire is dangerous",
+        "OptionC": "かざん — volcano",
+        "OptionD": "ひ — fire",
+        "CorrectAnswer": "ひ — fire",
+        "CorrectLetter": "D"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "6",
+        "Kanji": "火ようび",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "ひはあぶない — fire is dangerous",
+        "OptionB": "かようび — Tuesday",
+        "OptionC": "かざん — volcano",
+        "OptionD": "ひ — fire",
+        "CorrectAnswer": "かようび — Tuesday",
+        "CorrectLetter": "B"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "7",
+        "Kanji": "火山",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "かざん — volcano",
+        "OptionB": "ひ — fire",
+        "OptionC": "ふじさん — Mt. Fuji",
+        "OptionD": "やま — mountain",
+        "CorrectAnswer": "かざん — volcano",
+        "CorrectLetter": "A"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "8",
+        "Kanji": "火はあぶない",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "ひ — fire",
+        "OptionB": "かようび — Tuesday",
+        "OptionC": "かざん — volcano",
+        "OptionD": "ひはあぶない — fire is dangerous",
+        "CorrectAnswer": "ひはあぶない — fire is dangerous",
+        "CorrectLetter": "D"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "9",
+        "Kanji": "水",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "プールのみず — pool water",
+        "OptionB": "みず — water",
+        "OptionC": "みぎ — right",
+        "OptionD": "すいようび — Wednesday",
+        "CorrectAnswer": "みず — water",
+        "CorrectLetter": "B"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "10",
+        "Kanji": "水ようび",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "かようび — Tuesday",
+        "OptionB": "プールのみず — pool water",
+        "OptionC": "みず — water",
+        "OptionD": "すいようび — Wednesday",
+        "CorrectAnswer": "すいようび — Wednesday",
+        "CorrectLetter": "D"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "11",
+        "Kanji": "プールの水",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "すいようび — Wednesday",
+        "OptionB": "テーブルのした — under the table",
+        "OptionC": "みず — water",
+        "OptionD": "プールのみず — pool water",
+        "CorrectAnswer": "プールのみず — pool water",
+        "CorrectLetter": "D"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "12",
+        "Kanji": "木",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "き — tree",
+        "OptionB": "たかぎ — tall tree / surname &quot;Takagi&quot;",
+        "OptionC": "ぼくとう — wooden sword",
+        "OptionD": "きぎ — trees (plural)",
+        "CorrectAnswer": "き — tree",
+        "CorrectLetter": "A"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "13",
+        "Kanji": "木ようび",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "たかぎ — tall tree / surname &quot;Takagi&quot;",
+        "OptionB": "ぼくとう — wooden sword",
+        "OptionC": "き — tree",
+        "OptionD": "もくようび — Thursday",
+        "CorrectAnswer": "もくようび — Thursday",
+        "CorrectLetter": "D"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "14",
+        "Kanji": "木刀",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "きぎ — trees (plural)",
+        "OptionB": "もくようび — Thursday",
+        "OptionC": "ぼくとう — wooden sword",
+        "OptionD": "き — tree",
+        "CorrectAnswer": "ぼくとう — wooden sword",
+        "CorrectLetter": "C"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "15",
+        "Kanji": "木々",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "たかぎ — tall tree / surname &quot;Takagi&quot;",
+        "OptionB": "きぎ — trees (plural)",
+        "OptionC": "き — tree",
+        "OptionD": "ぼくとう — wooden sword",
+        "CorrectAnswer": "きぎ — trees (plural)",
+        "CorrectLetter": "B"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "16",
+        "Kanji": "高木",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "たかぎ — tall tree / surname &quot;Takagi&quot;",
+        "OptionB": "きぎ — trees (plural)",
+        "OptionC": "こう / たか — high / tall",
+        "OptionD": "たかいやま — tall mountain",
+        "CorrectAnswer": "たかぎ — tall tree / surname &quot;Takagi&quot;",
+        "CorrectLetter": "A"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "17",
+        "Kanji": "金",
+        "Question": "What is the reading and meaning of this kanji?",
+        "OptionA": "おかね — money",
+        "OptionB": "きんようび — Friday",
+        "OptionC": "きんぎょ — goldfish",
+        "OptionD": "きん / かね — gold / money",
+        "CorrectAnswer": "きん / かね — gold / money",
+        "CorrectLetter": "D"
+      },
+      "modelName": "N5 Kanji MCQ"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "No",
+        "Kanji": "Kanji",
+        "Hiragana": "Hiragana",
+        "Meaning": "Meaning",
+        "Easy": "Easy",
+        "Medium": "Medium",
+        "Hard": "Hard"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "1",
+        "Kanji": "月",
+        "Hiragana": "つき",
+        "Meaning": "moon / month",
+        "Easy": "月です。(It&#x27;s the moon.)",
+        "Medium": "月がきれいです。(The moon is pretty.)",
+        "Hard": "今夜は月がきれいですから、外を見ます。(Tonight the moon is pretty, so I&#x27;ll look outside.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "2",
+        "Kanji": "月ようび",
+        "Hiragana": "げつようび",
+        "Meaning": "Monday",
+        "Easy": "月曜日です。(It&#x27;s Monday.)",
+        "Medium": "月曜日に学校へ行きます。(I go to school on Monday.)",
+        "Hard": "月曜日は忙しいですから、早く起きます。(Monday is busy, so I get up early.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "3",
+        "Kanji": "四月",
+        "Hiragana": "しがつ",
+        "Meaning": "April",
+        "Easy": "四月です。(It&#x27;s April.)",
+        "Medium": "四月は春です。(April is spring.)",
+        "Hard": "四月になりますから、新しい学校が始まります。(April comes, so the new school starts.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "4",
+        "Kanji": "月を見る",
+        "Hiragana": "つきをみる",
+        "Meaning": "to look at the moon",
+        "Easy": "月を見ます。(I look at the moon.)",
+        "Medium": "夜、月を見ます。(I look at the moon at night.)",
+        "Hard": "友達と一緒に、公園で月を見ます。(I look at the moon in the park together with a friend.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "5",
+        "Kanji": "火",
+        "Hiragana": "ひ",
+        "Meaning": "fire",
+        "Easy": "火です。(It&#x27;s fire.)",
+        "Medium": "火は熱いです。(Fire is hot.)",
+        "Hard": "火は熱いですから、気をつけてください。(Fire is hot, so please be careful.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "6",
+        "Kanji": "火ようび",
+        "Hiragana": "かようび",
+        "Meaning": "Tuesday",
+        "Easy": "火曜日です。(It&#x27;s Tuesday.)",
+        "Medium": "火曜日にテストがあります。(There&#x27;s a test on Tuesday.)",
+        "Hard": "火曜日はテストがありますから、今晩勉強します。(There&#x27;s a test on Tuesday, so I&#x27;ll study tonight.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "7",
+        "Kanji": "火山",
+        "Hiragana": "かざん",
+        "Meaning": "volcano",
+        "Easy": "火山です。(It&#x27;s a volcano.)",
+        "Medium": "日本に火山があります。(There&#x27;s a volcano in Japan.)",
+        "Hard": "日本には火山がたくさんありますが、危なくないです。(Japan has many volcanoes, but they aren&#x27;t dangerous.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "8",
+        "Kanji": "火はあぶない",
+        "Hiragana": "ひはあぶない",
+        "Meaning": "fire is dangerous",
+        "Easy": "火は危ないです。(Fire is dangerous.)",
+        "Medium": "火は子供に危ないです。(Fire is dangerous for children.)",
+        "Hard": "火は危ないですから、子供は使ってはいけません。(Fire is dangerous, so children must not use it.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "9",
+        "Kanji": "水",
+        "Hiragana": "みず",
+        "Meaning": "water",
+        "Easy": "水です。(It&#x27;s water.)",
+        "Medium": "水を飲みます。(I drink water.)",
+        "Hard": "のどが渇きましたから、水を飲みます。(I got thirsty, so I drink water.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "10",
+        "Kanji": "水ようび",
+        "Hiragana": "すいようび",
+        "Meaning": "Wednesday",
+        "Easy": "水曜日です。(It&#x27;s Wednesday.)",
+        "Medium": "水曜日は休みです。(Wednesday is a day off.)",
+        "Hard": "水曜日は休みですから、友達に会います。(Wednesday is a day off, so I&#x27;ll meet my friend.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "11",
+        "Kanji": "プールの水",
+        "Hiragana": "プールのみず",
+        "Meaning": "pool water",
+        "Easy": "水です。(It&#x27;s water.)",
+        "Medium": "プールの水は冷たいです。(The pool water is cold.)",
+        "Hard": "プールの水は冷たいですが、気持ちいいです。(The pool water is cold, but it feels good.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "12",
+        "Kanji": "木",
+        "Hiragana": "き",
+        "Meaning": "tree",
+        "Easy": "木です。(It&#x27;s a tree.)",
+        "Medium": "木が大きいです。(The tree is big.)",
+        "Hard": "公園に木がありますから、涼しいです。(There&#x27;s a tree in the park, so it&#x27;s cool.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "13",
+        "Kanji": "木ようび",
+        "Hiragana": "もくようび",
+        "Meaning": "Thursday",
+        "Easy": "木曜日です。(It&#x27;s Thursday.)",
+        "Medium": "木曜日に買い物します。(I go shopping on Thursday.)",
+        "Hard": "木曜日は暇ですから、買い物に行きます。(Thursday is free, so I&#x27;ll go shopping.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "14",
+        "Kanji": "木刀",
+        "Hiragana": "ぼくとう",
+        "Meaning": "wooden sword",
+        "Easy": "木刀です。(It&#x27;s a wooden sword.)",
+        "Medium": "木刀は木です。(A bokuto is made of wood.)",
+        "Hard": "剣道で木刀を使いますが、危なくないです。(We use a wooden sword in kendo, but it&#x27;s not dangerous.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "15",
+        "Kanji": "木々 [?]",
+        "Hiragana": "きぎ",
+        "Meaning": "trees (plural)",
+        "Easy": "木々です。(These are trees.)",
+        "Medium": "木々が多いです。(There are many trees.)",
+        "Hard": "秋ですから、木々の葉が赤いです。(It&#x27;s autumn, so the trees&#x27; leaves are red.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "16",
+        "Kanji": "高木",
+        "Hiragana": "たかぎ",
+        "Meaning": "tall tree / surname &quot;Takagi&quot;",
+        "Easy": "高木さんです。(This is Mr. Takagi.)",
+        "Medium": "高木さんは先生です。(Mr. Takagi is a teacher.)",
+        "Hard": "高木さんは先生ですから、学校で会います。(Mr. Takagi is a teacher, so I see him at school.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "17",
+        "Kanji": "金",
+        "Hiragana": "きん / かね",
+        "Meaning": "gold / money",
+        "Easy": "金です。(It&#x27;s gold.)",
+        "Medium": "金は高いです。(Gold is expensive.)",
+        "Hard": "金は高いですから、あまり買いません。(Gold is expensive, so I don&#x27;t buy it much.)"
+      },
+      "modelName": "N5 Kanji Study"
+    },
+    {
+      "tags": [],
+      "fields": {
+        "No": "18",
+        "Kanji": "金ようび",
+        "Hiragana": "きんようび",
+        "Meaning": "Friday",
+        "Easy": "金曜日です。(It&#x27;s Friday.)",
+        "Medium": "金曜日は楽しみです。(I look forward to Friday.)",
+        "Hard": "金曜日ですから、今晩友達と食事します。(It&#x27;s Friday, so I&#x27;ll eat with a friend tonight.)"
+      },
+      "modelName": "N5 Kanji Study"
+    }
+  ]
+}
